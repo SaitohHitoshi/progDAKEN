@@ -79,13 +79,13 @@ def countEnterAndSpace():
         f.write('\n')
         f.close()
     
-# def initialize():
-#     path_result='EnterAndSpace_resolt.txt'
-#     with open(path_result,'w') as f_exam:
-#         pass
-#     f_exam.close()
+def initialize():
+    path_result='EnterAndSpace_resolt.txt'
+    with open(path_result,'w') as f_exam:
+        pass
+    f_exam.close()
 
-#initialize()
+initialize()
 recursive_file_check(ROOT_PATH)
 countEnterAndSpace()
 
