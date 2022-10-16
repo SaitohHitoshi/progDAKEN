@@ -1,0 +1,1089 @@
+FIT_data	kasahara	orinpikku	0.000	0.228	0.047	0.169	0.316	0.148	0.253	0.185	0.078
+FIT_data	kasahara	orinpikku	0.000	0.401	0.084	0.147	0.702	0.200	0.270	0.132	0.115
+FIT_data	kasahara	orinpikku	0.000	0.321	0.238	0.100	0.633	0.084	0.416	0.169	0.148
+FIT_data	kasahara	orinpikku	0.000	0.522	0.116	0.132	0.332	0.106	0.294	0.154	0.493
+FIT_data	kasahara	orinpikku	0.000	0.238	0.094	0.154	0.385	0.100	0.269	0.163	0.138
+FIT_data	kasahara	orinpikku	0.000	0.232	0.115	0.217	0.739	0.147	0.285	0.169	0.116
+FIT_data	kasahara	orinpikku	0.000	0.248	0.116	0.153	0.385	0.132	0.331	0.201	0.137
+FIT_data	kasahara	orinnpikku	0.000	0.228	0.069	0.201	0.131	0.248	0.100	0.254	0.147	0.100
+FIT_data	kasahara	orinnpikku	0.000	0.169	0.100	0.179	0.122	0.301	0.115	0.286	0.317	0.131
+FIT_data	kasahara	orinnpikku	0.000	0.200	0.085	0.185	0.118	0.198	0.100	0.247	0.154	0.099
+FIT_data	kasahara	orinnpikku	0.000	0.454	0.447	0.239	0.200	0.386	0.100	0.301	0.163	0.085
+FIT_data	kasahara	orinnpikku	0.000	0.464	0.301	0.185	0.143	0.258	0.469	0.263	0.223	0.100
+FIT_data	kasahara	orinnpikku	0.000	0.269	0.100	0.179	0.169	0.454	0.201	0.480	0.169	0.116
+FIT_data	kasahara	kikai	0.000	0.163	0.153	0.116	0.101
+FIT_data	kasahara	kikai	0.000	0.138	0.132	0.115	0.122
+FIT_data	kasahara	kikai	0.000	0.147	0.169	0.127	0.089
+FIT_data	kasahara	kikai	0.000	0.154	0.132	0.084	0.154
+FIT_data	kasahara	kikai	0.000	0.147	0.132	0.116	0.098
+FIT_data	kasahara	kikai	0.000	0.159	0.115	0.154	0.517
+FIT_data	kasahara	kikai	0.000	0.147	0.185	0.116	0.348
+FIT_data	kasahara	kikai	0.000	0.200	0.579	0.107	0.233
+FIT_data	kasahara	kikai	0.000	0.163	0.185	0.100	0.154
+FIT_data	kasahara	kikai	0.000	0.170	0.153	0.116	0.132
+FIT_data	kasahara	kikai	0.000	0.175	0.172	0.085	0.162
+FIT_data	kasahara	kikai	0.000	0.184	0.162	0.185	0.323
+FIT_data	kasahara	kikai	0.000	0.148	0.183	0.101	0.200
+FIT_data	kasahara	kikai	0.000	0.200	0.154	0.131	0.248
+FIT_data	kasahara	matatonai	0.000	0.100	0.286	0.115	0.301	0.101	0.122	0.094	0.137
+FIT_data	kasahara	matatonai	0.000	0.100	0.131	0.132	0.116	0.169	0.418	0.153	0.116
+FIT_data	kasahara	matatonai	0.000	0.137	0.201	0.447	0.201	0.131	0.201	0.138	0.100
+FIT_data	kasahara	matatonai	0.000	0.073	0.738	0.116	0.285	0.115	0.201	0.085	0.146
+FIT_data	kasahara	matatonai	0.000	0.116	0.169	0.216	0.385	0.132	0.185	0.162	0.223
+FIT_data	kasahara	taisou	0.000	0.116	0.116	0.170	0.116	0.084
+FIT_data	kasahara	taisou	0.000	0.116	0.078	0.154	0.068	0.117
+FIT_data	kasahara	taisou	0.000	0.085	0.084	0.163	0.038	0.100
+FIT_data	kasahara	taisou	0.000	0.099	0.148	0.116	0.084	0.111
+FIT_data	kasahara	taisou	0.000	0.101	0.163	0.138	0.085	0.100
+FIT_data	kasahara	taisou	0.000	0.101	0.116	0.147	0.100	0.100
+FIT_data	kasahara	taisou	0.000	0.100	0.185	0.194	0.037	0.116
+FIT_data	kasahara	taisou	0.000	0.117	0.232	0.189	0.053	0.111
+FIT_data	kasahara	sennshu	0.000	0.100	0.201	0.143	0.104	0.154	0.079
+FIT_data	kasahara	sennshu	0.000	0.147	0.254	0.163	0.116	0.096	0.089
+FIT_data	kasahara	sennshu	0.000	0.100	0.138	0.148	0.084	0.163	0.084
+FIT_data	kasahara	sennshu	0.000	0.132	0.131	0.154	0.131	0.101	0.116
+FIT_data	kasahara	sennshu	0.000	0.127	0.227	0.147	0.154	0.100	0.085
+FIT_data	kasahara	sennshu	0.000	0.069	0.470	0.148	0.168	0.079	0.084
+FIT_data	kasahara	sennshu	0.000	0.178	0.153	0.449	0.238	0.099	0.085
+FIT_data	kasahara	sennshu	0.000	0.089	0.154	0.162	0.101	0.100	0.085
+FIT_data	kasahara	orinpikku	0.000	0.987	0.131	0.132	0.368	0.116	0.284	0.130	0.111
+FIT_data	kasahara	orinpikku	0.000	0.516	0.053	0.117	0.284	0.084	0.263	0.170	0.084
+FIT_data	kasahara	orinpikku	0.000	0.216	0.069	0.179	0.269	0.100	0.254	0.132	0.100
+FIT_data	kasahara	orinpikku	0.000	0.353	0.116	0.185	0.301	0.116	0.248	0.154	0.084
+FIT_data	kasahara	orinpikku	0.000	0.270	0.059	0.162	0.280	0.085	0.269	0.148	0.100
+FIT_data	kasahara	orinpikku	0.000	0.437	0.127	0.138	0.834	0.116	0.270	0.178	0.170
+FIT_data	kasahara	orinpikku	0.000	0.239	0.084	0.147	0.238	0.116	0.263	0.154	0.115
+FIT_data	kasahara	orinpikku	0.000	0.163	0.100	0.169	0.285	0.100	0.269	0.148	0.088
+FIT_data	kasahara	orinpikku	0.000	0.395	0.106	0.169	0.459	0.126	0.263	0.170	0.084
+FIT_data	kasahara	orinpikku	0.000	0.201	0.100	0.153	0.279	0.084	0.254	0.142	0.099
+FIT_data	kasahara	orinpikku	0.000	0.201	0.062	0.169	0.216	0.122	0.247	0.148	0.084
+FIT_data	kasahara	orinpikku	0.000	0.317	0.085	0.163	0.602	0.100	0.255	0.184	0.078
+FIT_data	kasahara	orinpikku	0.000	0.285	0.078	0.154	0.411	0.131	0.259	0.163	0.100
+FIT_data	kasahara	orinpikku	0.000	0.178	0.069	0.150	0.220	0.116	0.231	0.138	0.100
+FIT_data	kasahara	kikai	0.000	0.169	0.147	0.147	0.185
+FIT_data	kasahara	kikai	0.000	0.178	0.185	0.116	0.267
+FIT_data	kasahara	kikai	0.000	0.186	0.138	0.116	0.517
+FIT_data	kasahara	kikai	0.000	0.169	0.200	0.586	0.316
+FIT_data	kasahara	kikai	0.000	0.163	0.153	0.148	0.216
+FIT_data	kasahara	kikai	0.000	0.194	0.423	0.123	0.147
+FIT_data	kasahara	kikai	0.000	0.162	0.185	0.100	0.202
+FIT_data	kasahara	kikai	0.000	0.185	0.231	0.170	0.278
+FIT_data	kasahara	kikai	0.000	0.167	0.150	0.084	0.379
+FIT_data	kasahara	kikai	0.000	0.168	0.216	0.085	0.232
+FIT_data	kasahara	kikai	0.000	0.185	0.184	0.116	0.169
+FIT_data	kasahara	kikai	0.000	0.131	0.154	0.169	0.765
+FIT_data	kasahara	kikai	0.000	0.158	0.158	0.116	0.175
+FIT_data	kasahara	kikai	0.000	0.184	0.634	0.116	0.148
+FIT_data	kasahara	matatonai	0.000	0.105	0.201	0.154	0.432	0.138	0.179	0.084	0.201
+FIT_data	kasahara	matatonai	0.000	0.100	0.217	0.084	0.248	0.131	0.185	0.085	0.184
+FIT_data	kasahara	matatonai	0.000	0.116	0.201	0.116	0.247	0.170	0.200	0.101	0.131
+FIT_data	kasahara	matatonai	0.000	0.100	0.201	0.169	0.617	0.117	0.231	0.122	0.217
+FIT_data	kasahara	matatonai	0.000	0.116	0.184	0.101	0.385	0.132	0.126	0.074	0.138
+FIT_data	kasahara	matatonai	0.000	0.101	0.200	0.105	0.374	0.140	0.199	0.132	0.170
+FIT_data	kasahara	taisou	0.000	0.084	0.201	0.132	0.053	0.100
+FIT_data	kasahara	taisou	0.000	0.100	0.201	0.100	0.084	0.069
+FIT_data	kasahara	taisou	0.000	0.084	0.363	0.171	0.114	0.070
+FIT_data	kasahara	taisou	0.000	0.101	0.253	0.163	0.037	0.116
+FIT_data	kasahara	taisou	0.000	0.101	0.200	0.132	0.084	0.101
+FIT_data	kasahara	taisou	0.000	0.102	0.146	0.137	0.101	0.078
+FIT_data	kasahara	taisou	0.000	0.100	0.216	0.154	0.062	0.107
+FIT_data	kasahara	taisou	0.000	0.085	0.147	0.138	0.078	0.100
+FIT_data	kasahara	taisou	0.000	0.093	0.170	0.131	0.053	0.085
+FIT_data	kasahara	sennshu	0.000	0.069	0.201	0.147	0.138	0.132	0.085
+FIT_data	kasahara	sennshu	0.000	0.085	0.201	0.153	0.132	0.100	0.085
+FIT_data	kasahara	sennshu	0.000	0.116	0.170	0.185	0.131	0.317	1.418
+FIT_data	kasahara	sennshu	0.000	0.132	0.153	0.154	0.116	0.100	0.074
+FIT_data	kasahara	sennshu	0.000	0.063	0.254	0.178	0.223	0.084	0.101
+FIT_data	kasahara	sennshu	0.000	0.133	0.168	0.162	0.238	0.069	0.116
+FIT_data	kasahara	sennshu	0.000	0.133	0.299	0.137	0.195	1.010	0.078
+FIT_data	kasahara	sennshu	0.000	0.116	0.185	0.153	0.248	0.084	0.100
+FIT_data	kasahara	orinpikku	0.000	0.269	0.232	0.154	0.448	0.138	0.632	0.147	0.138
+FIT_data	kasahara	orinpikku	0.000	0.301	0.385	0.154	1.064	0.138	0.385	0.148	0.131
+FIT_data	kasahara	orinpikku	0.000	0.348	0.228	0.304	0.554	0.169	0.417	0.200	0.216
+FIT_data	kasahara	orinpikku	0.000	0.254	0.200	0.185	0.548	0.138	0.332	0.269	0.247
+FIT_data	kasahara	orinpikku	0.000	0.301	0.223	0.248	0.941	0.201	0.616	0.201	0.331
+FIT_data	kasahara	orinpikku	0.000	0.421	0.223	0.215	0.666	0.122	0.432	0.163	0.306
+FIT_data	kasahara	orinpikku	0.000	0.470	0.320	0.421	0.549	0.120	0.520	0.200	0.330
+FIT_data	kasahara	orinpikku	0.000	0.485	0.278	0.254	0.618	0.138	0.701	0.148	0.169
+FIT_data	kasahara	kikai	0.000	0.186	0.173	0.101	0.269
+FIT_data	kasahara	kikai	0.000	0.222	0.247	0.175	0.680
+FIT_data	kasahara	kikai	0.000	0.270	0.247	0.285	0.285
+FIT_data	kasahara	kikai	0.000	0.232	0.216	0.139	0.379
+FIT_data	kasahara	kikai	0.000	0.222	0.216	0.333	0.401
+FIT_data	kasahara	kikai	0.000	0.247	0.300	0.338	0.401
+FIT_data	kasahara	kikai	0.000	0.230	0.210	0.250	0.265
+FIT_data	kasahara	kikai	0.000	0.222	0.779	0.155	0.268
+FIT_data	kasahara	kikai	0.000	0.269	0.232	0.170	0.301
+FIT_data	kasahara	kikai	0.000	0.233	0.210	0.148	0.289
+FIT_data	kasahara	matatonai	0.000	0.301	0.247	0.169	0.301	0.199	0.270	0.216	0.184
+FIT_data	kasahara	matatonai	0.000	0.132	0.316	0.500	0.285	0.154	0.217	0.130	0.200
+FIT_data	kasahara	matatonai	0.000	0.170	0.278	0.170	0.286	0.170	0.214	0.147	0.284
+FIT_data	kasahara	matatonai	0.000	0.170	0.201	0.115	0.270	0.345	0.242	0.162	0.170
+FIT_data	kasahara	matatonai	0.000	0.132	0.306	0.395	0.301	0.185	0.254	0.163	0.222
+FIT_data	kasahara	taisou	0.000	0.386	0.263	0.284	0.170	0.131
+FIT_data	kasahara	taisou	0.000	0.116	0.301	0.385	0.116	0.106
+FIT_data	kasahara	taisou	0.000	0.132	0.331	0.455	0.147	0.331
+FIT_data	kasahara	taisou	0.000	0.120	0.320	0.400	0.150	0.150
+FIT_data	kasahara	taisou	0.000	0.116	0.200	0.359	0.158	0.132
+FIT_data	kasahara	senshu	0.000	0.145	0.256	0.237	0.179	0.084
+FIT_data	kasahara	senshu	0.000	0.232	0.387	0.838	0.163	0.054
+FIT_data	kasahara	senshu	0.000	0.179	0.284	0.254	0.142	0.106
+FIT_data	kasahara	senshu	0.000	0.201	0.401	0.323	0.247	0.132
+FIT_data	kasahara	senshu	0.000	0.132	0.385	0.632	0.300	0.201
+FIT_data	kasahara	orinpikku	0.000	0.339	0.178	0.227	0.645	0.269	0.743	0.390	0.285
+FIT_data	kasahara	orinpikku	0.000	0.285	0.157	0.190	0.517	0.400	0.686	0.285	0.370
+FIT_data	kasahara	orinpikku	0.000	0.457	0.276	0.354	0.585	0.379	0.423	0.200	0.189
+FIT_data	kasahara	orinpikku	0.000	0.300	0.116	0.123	0.579	0.170	1.129	0.174	0.354
+FIT_data	kasahara	orinpikku	0.000	0.270	0.147	0.254	0.832	0.370	0.369	0.244	0.236
+FIT_data	kasahara	orinpikku	0.000	0.332	0.153	0.201	0.501	0.247	0.370	0.401	0.448
+FIT_data	kasahara	orinpikku	0.000	0.600	0.254	0.301	1.033	0.586	0.718	0.254	0.247
+FIT_data	kasahara	orinpikku	0.000	0.616	0.132	0.216	0.439	0.132	0.632	0.269	0.285
+FIT_data	kasahara	kikai	0.000	0.316	0.285	0.138	0.517
+FIT_data	kasahara	kikai	0.000	0.238	0.247	0.185	0.833
+FIT_data	kasahara	kikai	0.000	0.270	0.238	0.194	0.270
+FIT_data	kasahara	kikai	0.000	0.269	0.438	0.194	0.623
+FIT_data	kasahara	kikai	0.000	0.285	0.285	0.211	0.321
+FIT_data	kasahara	kikai	0.000	0.207	0.216	0.231	0.470
+FIT_data	kasahara	kikai	0.000	0.254	0.232	0.169	0.247
+FIT_data	kasahara	kikai	0.000	0.242	0.232	0.417	0.365
+FIT_data	kasahara	kikai	0.000	0.300	0.232	0.238	0.232
+FIT_data	kasahara	kikai	0.000	0.247	0.223	0.232	0.463
+FIT_data	kasahara	matatonai	0.000	0.170	0.254	0.162	0.354	0.185	0.272	0.177	0.232
+FIT_data	kasahara	matatonai	0.000	0.162	0.282	0.388	0.354	0.164	0.231	0.207	0.232
+FIT_data	kasahara	matatonai	0.000	0.116	0.217	0.115	0.570	0.132	0.269	0.132	0.369
+FIT_data	kasahara	matatonai	0.000	0.085	0.470	0.331	0.332	0.238	0.278	0.185	0.169
+FIT_data	kasahara	matatonai	0.000	0.154	0.258	0.327	0.279	0.200	0.254	0.216	0.232
+FIT_data	kasahara	taisou	0.000	0.163	0.355	0.370	0.174	0.157
+FIT_data	kasahara	taisou	0.000	0.116	0.258	0.421	0.206	0.132
+FIT_data	kasahara	taisou	0.000	0.437	0.300	1.058	0.369	0.132
+FIT_data	kasahara	taisou	0.000	0.134	0.268	0.301	0.179	0.100
+FIT_data	kasahara	taisou	0.000	0.132	0.369	0.232	0.269	0.263
+FIT_data	kasahara	senshu	0.000	0.170	0.253	0.247	0.354	0.100
+FIT_data	kasahara	senshu	0.000	0.200	0.369	0.933	0.317	0.122
+FIT_data	kasahara	senshu	0.000	0.094	0.422	0.405	0.259	0.122
+FIT_data	kasahara	senshu	0.000	0.140	0.338	0.184	0.201	0.062
+FIT_data	kasahara	senshu	0.000	0.216	0.343	0.374	0.147	0.069
+FIT_data	kasahara	orinpikku	0.000	0.391	0.100	0.138	0.279	0.109	0.345	0.101	0.315
+FIT_data	kasahara	orinpikku	0.000	0.217	0.084	0.170	0.379	0.038	0.701	0.148	0.102
+FIT_data	kasahara	orinpikku	0.000	0.333	0.163	0.231	0.655	0.169	0.380	0.183	0.154
+FIT_data	kasahara	orinpikku	0.000	0.239	0.162	0.201	0.454	0.148	0.338	0.147	0.154
+FIT_data	kasahara	orinpikku	0.000	0.254	0.116	0.184	0.279	0.153	0.317	0.216	0.153
+FIT_data	kasahara	orinpikku	0.000	0.269	0.101	0.131	0.386	0.131	0.518	0.169	0.147
+FIT_data	kasahara	orinpikku	0.000	0.242	0.087	0.187	0.333	0.168	0.400	0.169	0.185
+FIT_data	kasahara	orinpikku	0.000	0.247	0.122	0.447	0.433	0.185	0.486	0.131	0.169
+FIT_data	kasahara	kikai	0.000	0.169	0.169	0.116	0.147
+FIT_data	kasahara	kikai	0.000	0.217	0.464	0.154	0.169
+FIT_data	kasahara	kikai	0.000	0.178	0.207	0.142	0.174
+FIT_data	kasahara	kikai	0.000	0.169	0.201	0.115	0.448
+FIT_data	kasahara	kikai	0.000	0.332	0.369	0.169	0.248
+FIT_data	kasahara	kikai	0.000	0.295	0.222	0.200	0.332
+FIT_data	kasahara	kikai	0.000	0.184	0.348	0.116	0.216
+FIT_data	kasahara	kikai	0.000	0.238	0.201	0.178	0.269
+FIT_data	kasahara	kikai	0.000	0.216	0.269	0.201	0.317
+FIT_data	kasahara	kikai	0.000	0.169	0.232	0.154	0.195
+FIT_data	kasahara	kikai	0.000	0.348	0.206	0.148	0.221
+FIT_data	kasahara	kikai	0.000	0.174	0.206	0.137	0.263
+FIT_data	kasahara	matatonai	0.000	0.058	0.216	0.132	0.184	0.153	0.159	0.142	0.131
+FIT_data	kasahara	matatonai	0.000	0.101	0.194	0.175	0.116	0.170	0.211	0.131	0.159
+FIT_data	kasahara	matatonai	0.000	0.163	0.216	0.138	0.248	0.153	0.201	0.147	0.169
+FIT_data	kasahara	matatonai	0.000	0.122	0.200	0.163	0.570	0.116	0.200	0.154	0.178
+FIT_data	kasahara	matatonai	0.000	0.154	0.215	0.148	0.386	0.153	0.247	0.154	0.178
+FIT_data	kasahara	taisou	0.000	0.085	0.162	0.217	0.137	0.063
+FIT_data	kasahara	taisou	0.000	0.132	0.085	0.216	0.084	0.101
+FIT_data	kasahara	taisou	0.000	0.132	0.253	0.185	0.116	0.100
+FIT_data	kasahara	taisou	0.000	0.142	0.184	0.179	0.153	0.101
+FIT_data	kasahara	taisou	0.000	0.116	0.238	0.486	0.101	0.147
+FIT_data	kasahara	sennshu	0.000	1.203	0.338	0.132	0.316	0.147	0.068
+FIT_data	kasahara	sennshu	0.000	0.089	0.195	0.148	0.100	0.138	0.100
+FIT_data	kasahara	sennshu	0.000	0.194	0.286	0.169	0.185	0.169	0.088
+FIT_data	kasahara	sennshu	0.000	0.154	0.242	0.174	0.169	0.132	0.116
+FIT_data	kasahara	sennshu	0.000	0.121	0.247	0.138	0.131	0.185	0.100
+FIT_data	kasahara	orinpikku	0.000	0.517	0.084	0.116	0.570	0.132	0.316	0.154	0.116
+FIT_data	kasahara	orinpikku	0.000	0.300	0.122	0.178	0.301	0.138	0.301	0.163	0.116
+FIT_data	kasahara	orinpikku	0.000	0.264	0.100	0.169	0.270	0.147	0.513	0.141	0.121
+FIT_data	kasahara	orinpikku	0.000	0.401	0.069	0.185	0.247	0.127	0.289	0.232	0.106
+FIT_data	kasahara	orinpikku	0.000	0.301	0.116	0.184	0.859	0.721	0.317	0.223	0.046
+FIT_data	kasahara	orinpikku	0.000	0.870	0.084	0.163	0.439	0.116	0.262	0.201	0.100
+FIT_data	kasahara	orinpikku	0.000	0.316	0.138	0.169	0.279	0.138	0.279	0.184	0.138
+FIT_data	kasahara	orinpikku	0.000	0.253	0.264	0.138	0.285	0.116	0.263	0.170	0.148
+FIT_data	kasahara	orinpikku	0.000	0.517	0.136	0.117	0.317	1.001	0.485	0.147	0.132
+FIT_data	kasahara	orinpikku	0.000	0.269	0.185	0.247	0.371	0.100	0.289	0.185	0.127
+FIT_data	kasahara	orinpikku	0.000	0.232	0.085	0.153	0.316	0.131	0.301	0.181	0.104
+FIT_data	kasahara	kikai	0.000	0.154	0.194	0.085	0.201
+FIT_data	kasahara	kikai	0.000	0.154	0.185	0.116	0.354
+FIT_data	kasahara	kikai	0.000	0.154	0.178	0.101	0.253
+FIT_data	kasahara	kikai	0.000	0.138	0.190	0.088	0.238
+FIT_data	kasahara	kikai	0.000	0.184	0.170	0.100	0.216
+FIT_data	kasahara	kikai	0.000	0.153	0.179	0.153	0.570
+FIT_data	kasahara	kikai	0.000	0.138	0.216	0.100	0.200
+FIT_data	kasahara	kikai	0.000	0.184	0.185	0.094	0.184
+FIT_data	kasahara	kikai	0.000	0.648	0.239	0.131	0.169
+FIT_data	kasahara	kikai	0.000	0.154	0.185	0.116	0.200
+FIT_data	kasahara	kikai	0.000	0.131	0.540	0.127	0.120
+FIT_data	kasahara	kikai	0.000	0.179	0.169	0.147	0.254
+FIT_data	kasahara	kikai	0.000	0.152	0.169	0.100	0.247
+FIT_data	kasahara	kikai	0.000	0.200	0.169	0.132	0.269
+FIT_data	kasahara	matatonai	0.000	0.132	0.168	0.117	0.369	0.163	0.254	0.115	0.116
+FIT_data	kasahara	matatonai	0.000	0.122	0.194	0.122	0.201	0.131	0.169	0.132	0.116
+FIT_data	kasahara	matatonai	0.000	0.116	0.169	0.131	0.641	0.115	0.169	0.132	0.116
+FIT_data	kasahara	matatonai	0.000	0.122	0.201	0.157	0.428	0.116	0.184	0.131	0.117
+FIT_data	kasahara	matatonai	0.000	0.100	0.201	0.100	0.248	0.138	0.163	0.131	0.138
+FIT_data	kasahara	matatonai	0.000	0.132	0.184	0.148	0.184	0.185	0.217	0.100	0.169
+FIT_data	kasahara	taisou	0.000	0.085	0.231	0.185	0.132	0.111
+FIT_data	kasahara	taisou	0.000	0.084	0.271	0.284	0.100	0.116
+FIT_data	kasahara	taisou	0.000	0.132	0.238	0.359	0.111	0.078
+FIT_data	kasahara	taisou	0.000	0.100	0.154	0.131	0.154	0.093
+FIT_data	kasahara	taisou	0.000	0.111	0.100	0.201	0.084	0.085
+FIT_data	kasahara	taisou	0.000	0.116	0.147	0.122	0.116	0.085
+FIT_data	kasahara	taisou	0.000	0.094	0.206	0.100	0.178	0.094
+FIT_data	kasahara	taisou	0.000	0.100	0.264	0.285	0.100	0.085
+FIT_data	kasahara	senshu	0.000	0.147	0.222	0.348	0.115	0.081
+FIT_data	kasahara	sennshu	0.000	0.147	0.154	0.163	0.100	0.170	0.069
+FIT_data	kasahara	sennshu	0.000	0.163	0.185	0.153	0.201	0.100	0.058
+FIT_data	kasahara	sennshu	0.000	0.153	0.217	0.147	0.122	0.116	0.078
+FIT_data	kasahara	sennshu	0.000	0.153	1.087	0.132	0.216	0.085	0.069
+FIT_data	kasahara	sennshu	0.000	0.133	0.138	0.147	0.101	0.116	0.095
+FIT_data	kasahara	sennshu	0.000	0.154	0.632	0.169	0.169	0.132	0.085
+FIT_data	kasahara	sennshu	0.000	0.163	0.222	0.132	0.153	0.116	0.085
+FIT_data	hasimoto	orinnpikku	0.000	0.141	0.088	0.145	0.138	0.113	0.149	0.182	0.127	0.112
+FIT_data	hasimoto	orinnpikku	0.000	0.152	0.065	0.132	0.111	0.118	0.140	0.158	0.115	0.124
+FIT_data	hasimoto	orinnpikku	0.000	0.136	0.095	0.155	0.120	0.121	0.147	0.182	0.130	0.130
+FIT_data	hasimoto	orinnpikku	0.000	0.101	0.097	0.132	0.114	0.146	0.147	0.175	0.123	0.117
+FIT_data	hasimoto	orinnpikku	0.000	0.147	0.099	0.156	0.124	0.127	0.140	0.184	0.120	0.119
+FIT_data	hasimoto	orinnpikku	0.000	0.130	0.113	0.191	0.112	0.146	0.125	0.178	0.125	0.126
+FIT_data	hasimoto	orinnpikku	0.000	0.176	0.102	0.153	0.118	0.153	0.157	0.186	0.116	0.144
+FIT_data	hasimoto	orinnpikku	0.000	0.173	0.091	0.188	0.127	0.164	0.177	0.200	0.105	0.145
+FIT_data	hasimoto	orinnpikku	0.000	0.150	0.096	0.164	0.133	0.121	0.145	0.164	0.109	0.147
+FIT_data	hasimoto	orinnpikku	0.000	0.180	0.104	0.159	0.129	0.140	0.162	0.173	0.120	0.108
+FIT_data	hasimoto	kikai	0.000	0.125	0.138	0.116	0.099
+FIT_data	hasimoto	kikai	0.000	0.141	0.142	0.075	0.129
+FIT_data	hasimoto	kikai	0.000	0.166	0.131	0.102	0.079
+FIT_data	hasimoto	kikai	0.000	0.159	0.155	0.074	0.119
+FIT_data	hasimoto	kikai	0.000	0.153	0.138	0.092	0.135
+FIT_data	hasimoto	kikai	0.000	0.152	0.190	0.140	0.151
+FIT_data	hasimoto	kikai	0.000	0.159	0.147	0.085	0.105
+FIT_data	hasimoto	kikai	0.000	0.154	0.128	0.086	0.138
+FIT_data	hasimoto	kikai	0.000	0.173	0.148	0.116	0.132
+FIT_data	hasimoto	kikai	0.000	0.145	0.136	0.099	0.094
+FIT_data	hasimoto	kikai	0.000	0.139	0.142	0.113	0.090
+FIT_data	hasimoto	kikai	0.000	0.146	0.137	0.103	0.090
+FIT_data	hasimoto	kikai	0.000	0.157	0.138	0.110	0.103
+FIT_data	hasimoto	kikai	0.000	0.145	0.136	0.065	0.138
+FIT_data	hasimoto	kikai	0.000	0.158	0.160	0.110	0.113
+FIT_data	hasimoto	matatonai	0.000	0.114	0.154	0.080	0.181	0.050	0.137	0.104	0.097
+FIT_data	hasimoto	matatonai	0.000	0.110	0.184	0.085	0.228	0.092	0.106	0.064	0.115
+FIT_data	hasimoto	matatonai	0.000	0.104	0.195	0.065	0.204	0.102	0.105	0.093	0.093
+FIT_data	hasimoto	matatonai	0.000	0.109	0.198	0.069	0.221	0.084	0.119	0.103	0.104
+FIT_data	hasimoto	matatonai	0.000	0.111	0.195	0.074	0.227	0.120	0.115	0.122	0.129
+FIT_data	hasimoto	matatonai	0.000	0.109	0.204	0.094	0.240	0.098	0.115	0.102	0.077
+FIT_data	hasimoto	matatonai	0.000	0.115	0.200	0.085	0.200	0.155	0.161	0.118	0.142
+FIT_data	hasimoto	taisou	0.000	0.073	0.079	0.148	0.051	0.121
+FIT_data	hasimoto	taisou	0.000	0.074	0.081	0.155	0.059	0.110
+FIT_data	hasimoto	taisou	0.000	0.077	0.092	0.141	0.070	0.135
+FIT_data	hasimoto	taisou	0.000	0.067	0.134	0.109	0.090	0.116
+FIT_data	hasimoto	taisou	0.000	0.062	0.082	0.154	0.048	0.120
+FIT_data	hasimoto	taisou	0.000	0.069	0.081	0.180	0.069	0.146
+FIT_data	hasimoto	taisou	0.000	0.063	0.075	0.152	0.045	0.119
+FIT_data	hasimoto	taisou	0.000	0.069	0.090	0.165	0.062	0.138
+FIT_data	hasimoto	taisou	0.000	0.078	0.082	0.166	0.036	0.142
+FIT_data	hasimoto	taisou	0.000	0.074	0.089	0.144	0.076	0.133
+FIT_data	hasimoto	sennsyu	0.000	0.169	0.121	0.119	0.095	0.098	0.140
+FIT_data	hasimoto	sennsyu	0.000	0.177	0.137	0.099	0.099	0.118	0.134
+FIT_data	hasimoto	sennsyu	0.000	0.163	0.117	0.117	0.048	0.161	0.125
+FIT_data	hasimoto	sennsyu	0.000	0.153	0.074	0.105	0.102	0.121	0.125
+FIT_data	hasimoto	sennsyu	0.000	0.209	0.113	0.109	0.067	0.136	0.138
+FIT_data	hasimoto	sennsyu	0.000	0.181	0.101	0.120	0.095	0.108	0.144
+FIT_data	hasimoto	sennsyu	0.000	0.182	0.085	0.115	0.106	0.098	0.144
+FIT_data	hasimoto	sennsyu	0.000	0.189	0.162	0.116	0.130	0.150	0.146
+FIT_data	hasimoto	sennsyu	0.000	0.187	0.083	0.117	0.079	0.143	0.130
+FIT_data	hasimoto	sennsyu	0.000	0.204	0.151	0.132	0.128	0.123	0.149
+FIT_data	hasimoto	orinnpikku	0.000	0.167	0.075	0.145	0.132	0.117	0.144	0.182	0.119	0.132
+FIT_data	hasimoto	orinnpikku	0.000	0.162	0.091	0.157	0.135	0.121	0.143	0.192	0.113	0.136
+FIT_data	hasimoto	orinnpikku	0.000	0.165	0.109	0.148	0.124	0.128	0.141	0.195	0.103	0.115
+FIT_data	hasimoto	orinnpikku	0.000	0.164	0.095	0.154	0.105	0.142	0.135	0.192	0.095	0.143
+FIT_data	hasimoto	orinnpikku	0.000	0.145	0.084	0.130	0.113	0.119	0.143	0.158	0.127	0.114
+FIT_data	hasimoto	orinnpikku	0.000	0.143	0.092	0.164	0.129	0.433	0.134	0.182	0.096	0.138
+FIT_data	hasimoto	orinnpikku	0.000	0.130	0.104	0.155	0.131	0.162	0.151	0.181	0.098	0.140
+FIT_data	hasimoto	kikai	0.000	0.190	0.144	0.116	0.119
+FIT_data	hasimoto	kikai	0.000	0.172	0.162	0.118	0.109
+FIT_data	hasimoto	kikai	0.000	0.130	0.146	0.104	0.114
+FIT_data	hasimoto	kikai	0.000	0.157	0.137	0.104	0.099
+FIT_data	hasimoto	kikai	0.000	0.154	0.162	0.109	0.113
+FIT_data	hasimoto	kikai	0.000	0.164	0.131	0.060	0.144
+FIT_data	hasimoto	kikai	0.000	0.136	0.163	0.073	0.143
+FIT_data	hasimoto	kikai	0.000	0.136	0.134	0.122	0.099
+FIT_data	hasimoto	kikai	0.000	0.124	0.148	0.114	0.094
+FIT_data	hasimoto	kikai	0.000	0.182	0.166	0.114	0.118
+FIT_data	hasimoto	kikai	0.000	0.157	0.237	0.186	0.190
+FIT_data	hasimoto	matatonai	0.000	0.104	0.171	0.067	0.185	0.082	0.115	0.112	0.085
+FIT_data	hasimoto	matatonai	0.000	0.121	0.204	0.086	0.199	0.099	0.104	0.098	0.108
+FIT_data	hasimoto	matatonai	0.000	0.111	0.218	0.079	0.227	0.113	0.117	0.117	0.103
+FIT_data	hasimoto	matatonai	0.000	0.134	0.215	0.089	0.209	0.108	0.114	0.101	0.115
+FIT_data	hasimoto	matatonai	0.000	0.130	0.190	0.083	0.192	0.104	0.117	0.098	0.094
+FIT_data	hasimoto	matatonai	0.000	0.130	0.207	0.077	0.216	0.093	0.113	0.104	0.098
+FIT_data	hasimoto	taisou	0.000	0.095	0.142	0.112	0.084	0.135
+FIT_data	hasimoto	taisou	0.000	0.084	0.090	0.201	0.077	0.139
+FIT_data	hasimoto	taisou	0.000	0.092	0.075	0.174	0.078	0.121
+FIT_data	hasimoto	taisou	0.000	0.085	0.081	0.175	0.061	0.131
+FIT_data	hasimoto	taisou	0.000	0.069	0.084	0.166	0.055	0.133
+FIT_data	hasimoto	taisou	0.000	0.073	0.087	0.150	0.068	0.141
+FIT_data	hasimoto	taisou	0.000	0.093	0.133	0.183	0.109	0.157
+FIT_data	hasimoto	sennsyu	0.000	0.163	0.154	0.108	0.085	0.133	0.142
+FIT_data	hasimoto	sennsyu	0.000	0.169	0.149	0.115	0.051	0.168	0.150
+FIT_data	hasimoto	sennsyu	0.000	0.166	0.108	0.115	0.062	0.150	0.145
+FIT_data	hasimoto	sennsyu	0.000	0.164	0.100	0.122	0.064	0.165	0.129
+FIT_data	hasimoto	sennsyu	0.000	0.171	0.133	0.123	0.087	0.100	0.141
+FIT_data	hasimoto	sennsyu	0.000	0.198	0.160	0.130	0.112	0.131	0.156
+FIT_data	hasimoto	orinnpikku	0.000	0.258	0.133	0.223	0.141	0.185	0.216	0.262	0.129	0.229
+FIT_data	hasimoto	orinnpikku	0.000	0.235	0.124	0.232	0.134	0.174	0.228	0.248	0.124	0.235
+FIT_data	hasimoto	orinnpikku	0.000	0.223	0.168	0.251	0.131	0.194	0.240	0.269	0.147	0.388
+FIT_data	hasimoto	orinnpikku	0.000	0.300	0.145	0.265	0.132	0.226	0.260	0.285	0.145	0.289
+FIT_data	hasimoto	orinnpikku	0.000	0.293	0.158	0.251	0.127	0.199	0.245	0.263	0.154	0.232
+FIT_data	hasimoto	orinnpikku	0.000	0.272	0.135	0.241	0.190	0.484	0.231	0.255	0.149	0.226
+FIT_data	hasimoto	kikai	0.000	0.207	0.192	0.150	0.114
+FIT_data	hasimoto	kikai	0.000	0.226	0.213	0.143	0.166
+FIT_data	hasimoto	kikai	0.000	0.197	0.202	0.165	0.179
+FIT_data	hasimoto	kikai	0.000	0.223	0.231	0.135	0.242
+FIT_data	hasimoto	kikai	0.000	0.208	0.224	0.135	0.189
+FIT_data	hasimoto	kikai	0.000	0.209	0.216	0.132	0.251
+FIT_data	hasimoto	kikai	0.000	0.220	0.225	0.144	0.281
+FIT_data	hasimoto	kikai	0.000	0.202	0.233	0.163	0.171
+FIT_data	hasimoto	kikai	0.000	0.205	0.211	0.151	0.182
+FIT_data	hasimoto	kikai	0.000	0.227	0.207	0.253	0.297
+FIT_data	hasimoto	kikai	0.000	0.211	0.224	0.156	0.208
+FIT_data	hasimoto	matatonai	0.000	0.190	0.367	0.104	0.310	0.174	0.200	0.147	0.243
+FIT_data	hasimoto	matatonai	0.000	0.259	0.347	0.113	0.290	0.165	0.215	0.150	0.192
+FIT_data	hasimoto	matatonai	0.000	0.197	0.380	0.106	0.343	0.169	0.244	0.141	0.246
+FIT_data	hasimoto	matatonai	0.000	0.164	0.415	0.107	0.324	0.157	0.193	0.148	0.238
+FIT_data	hasimoto	matatonai	0.000	0.160	0.457	0.106	0.324	0.186	0.219	0.180	0.210
+FIT_data	hasimoto	matatonai	0.000	0.142	0.426	0.096	0.326	0.164	0.181	0.175	0.188
+FIT_data	hasimoto	taisou	0.000	0.110	0.178	0.109	0.123	0.185
+FIT_data	hasimoto	taisou	0.000	0.104	0.214	0.166	0.130	0.202
+FIT_data	hasimoto	taisou	0.000	0.079	0.223	0.230	0.136	0.231
+FIT_data	hasimoto	taisou	0.000	0.108	0.261	0.196	0.167	0.250
+FIT_data	hasimoto	taisou	0.000	0.115	0.335	0.228	0.149	0.240
+FIT_data	hasimoto	taisou	0.000	0.101	0.230	0.151	0.146	0.202
+FIT_data	hasimoto	sennsyu	0.000	0.225	0.178	0.150	0.176	0.217	0.233
+FIT_data	hasimoto	sennsyu	0.000	0.177	0.194	0.118	0.220	0.196	0.220
+FIT_data	hasimoto	sennsyu	0.000	0.221	0.179	0.156	0.216	0.214	0.256
+FIT_data	hasimoto	sennsyu	0.000	0.234	0.265	0.174	0.268	0.283	0.230
+FIT_data	hasimoto	sennsyu	0.000	0.227	0.214	0.149	0.199	0.222	0.208
+FIT_data	hasimoto	sennsyu	0.000	0.256	0.198	0.177	0.245	0.218	0.208
+FIT_data	hasimoto	orinnpikku	0.000	0.325	0.157	0.214	0.157	0.181	0.241	0.312	0.196	0.294
+FIT_data	hasimoto	orinnpikku	0.000	0.241	0.143	0.192	0.146	0.201	0.229	0.259	0.134	0.195
+FIT_data	hasimoto	orinnpikku	0.000	0.182	0.152	0.236	0.144	0.262	0.244	0.256	0.140	0.295
+FIT_data	hasimoto	orinnpikku	0.000	0.439	0.148	0.259	0.374	0.370	0.251	0.283	0.161	0.405
+FIT_data	hasimoto	orinnpikku	0.000	0.373	0.159	0.226	0.150	0.234	0.251	0.273	0.122	0.316
+FIT_data	hasimoto	orinnpikku	0.000	0.235	0.151	0.213	0.138	0.182	0.214	0.272	0.143	0.228
+FIT_data	hasimoto	orinnpikku	0.000	0.227	0.149	0.289	0.163	0.199	0.256	0.273	0.158	0.294
+FIT_data	hasimoto	orinnpikku	0.000	0.267	0.166	0.236	0.166	0.201	0.280	0.282	0.153	0.267
+FIT_data	hasimoto	orinnpikku	0.000	0.245	0.129	0.207	0.142	0.213	0.258	0.254	0.123	0.286
+FIT_data	hasimoto	orinnpikku	0.000	0.217	0.167	0.219	0.151	0.187	0.245	0.256	0.153	0.249
+FIT_data	hasimoto	orinnpikku	0.000	0.226	0.145	0.228	0.120	0.200	0.252	0.247	0.137	0.291
+FIT_data	hasimoto	orinnpikku	0.000	0.266	0.156	0.218	0.133	0.223	0.279	0.905	0.149	0.251
+FIT_data	hasimoto	orinnpikku	0.000	0.275	0.135	0.215	0.144	0.197	0.234	0.239	0.130	0.231
+FIT_data	hasimoto	kikai	0.000	0.196	0.193	0.109	0.132
+FIT_data	hasimoto	kikai	0.000	0.203	0.188	0.091	0.134
+FIT_data	hasimoto	kikai	0.000	0.202	0.235	0.118	0.136
+FIT_data	hasimoto	kikai	0.000	0.207	0.230	0.110	0.138
+FIT_data	hasimoto	kikai	0.000	0.183	0.197	0.111	0.125
+FIT_data	hasimoto	kikai	0.000	0.193	0.202	0.098	0.166
+FIT_data	hasimoto	kikai	0.000	0.184	0.213	0.133	0.190
+FIT_data	hasimoto	kikai	0.000	0.189	0.204	0.120	0.158
+FIT_data	hasimoto	kikai	0.000	0.202	0.210	0.133	0.222
+FIT_data	hasimoto	kikai	0.000	0.178	0.233	0.143	0.191
+FIT_data	hasimoto	kikai	0.000	0.267	0.232	0.120	0.213
+FIT_data	hasimoto	kikai	0.000	0.184	0.224	0.186	0.237
+FIT_data	hasimoto	kikai	0.000	0.206	0.236	0.158	0.190
+FIT_data	hasimoto	kikai	0.000	0.225	0.210	0.138	0.162
+FIT_data	hasimoto	kikai	0.000	0.207	0.221	0.174	0.198
+FIT_data	hasimoto	kikai	0.000	0.214	0.202	0.119	0.154
+FIT_data	hasimoto	kikai	0.000	0.201	0.208	0.127	0.157
+FIT_data	hasimoto	kikai	0.000	0.209	0.209	0.126	0.205
+FIT_data	hasimoto	kikai	0.000	0.203	0.277	0.193	0.163
+FIT_data	hasimoto	kikai	0.000	0.184	0.198	0.157	0.269
+FIT_data	hasimoto	kikai	0.000	0.201	0.210	0.160	0.168
+FIT_data	hasimoto	kikai	0.000	0.188	0.214	0.137	0.218
+FIT_data	hasimoto	matatonai	0.000	0.139	0.250	0.098	0.272	0.139	0.157	0.125	0.143
+FIT_data	hasimoto	matatonai	0.000	0.160	0.339	0.089	0.340	0.172	0.187	0.125	0.155
+FIT_data	hasimoto	matatonai	0.000	0.121	0.353	0.079	0.336	0.158	0.192	0.119	0.208
+FIT_data	hasimoto	matatonai	0.000	0.150	0.337	0.113	0.370	0.229	0.232	0.153	0.205
+FIT_data	hasimoto	matatonai	0.000	0.169	0.320	0.062	0.493	0.164	0.186	0.113	0.152
+FIT_data	hasimoto	matatonai	0.000	0.140	0.386	0.119	0.390	0.155	0.177	0.128	0.167
+FIT_data	hasimoto	matatonai	0.000	0.239	0.316	0.121	0.323	0.162	0.185	0.141	0.217
+FIT_data	hasimoto	matatonai	0.000	0.140	0.299	0.100	0.310	0.153	0.148	0.131	0.168
+FIT_data	hasimoto	matatonai	0.000	0.189	0.402	0.139	0.330	0.178	0.180	0.146	0.175
+FIT_data	hasimoto	matatonai	0.000	0.123	0.385	0.112	0.307	0.159	0.173	0.137	0.163
+FIT_data	hasimoto	matatonai	0.000	0.168	0.407	0.096	0.302	0.162	0.211	0.128	0.162
+FIT_data	hasimoto	taisou	0.000	0.074	0.774	0.162	0.130	0.215
+FIT_data	hasimoto	taisou	0.000	0.086	0.248	0.280	0.129	0.198
+FIT_data	hasimoto	taisou	0.000	0.089	0.214	0.198	0.163	0.208
+FIT_data	hasimoto	taisou	0.000	0.101	0.192	0.145	0.131	0.188
+FIT_data	hasimoto	taisou	0.000	0.085	0.203	0.137	0.155	0.207
+FIT_data	hasimoto	taisou	0.000	0.074	0.251	0.165	0.125	0.209
+FIT_data	hasimoto	taisou	0.000	0.112	0.243	0.233	0.109	0.198
+FIT_data	hasimoto	taisou	0.000	0.211	0.249	0.172	0.143	0.237
+FIT_data	hasimoto	taisou	0.000	0.089	0.229	0.153	0.148	0.214
+FIT_data	hasimoto	taisou	0.000	0.103	0.206	0.172	0.129	0.189
+FIT_data	hasimoto	taisou	0.000	0.098	0.192	0.181	0.132	0.221
+FIT_data	hasimoto	taisou	0.000	0.116	0.307	0.190	0.158	0.205
+FIT_data	hasimoto	taisou	0.000	0.136	0.281	0.150	0.153	0.196
+FIT_data	hasimoto	sennsyu	0.000	0.216	0.171	0.161	0.153	0.153	0.206
+FIT_data	hasimoto	sennsyu	0.000	0.216	0.184	0.133	0.218	0.137	0.212
+FIT_data	hasimoto	sennsyu	0.000	0.217	0.188	0.144	0.225	0.194	0.206
+FIT_data	hasimoto	sennsyu	0.000	0.200	0.153	0.145	0.142	0.161	0.216
+FIT_data	hasimoto	sennsyu	0.000	0.215	0.168	0.158	0.151	0.199	0.201
+FIT_data	hasimoto	sennsyu	0.000	0.207	0.192	0.144	0.151	0.200	0.203
+FIT_data	hasimoto	sennsyu	0.000	0.237	0.214	0.145	0.191	0.217	0.233
+FIT_data	hasimoto	sennsyu	0.000	0.222	0.197	0.133	0.201	0.187	0.249
+FIT_data	hasimoto	sennsyu	0.000	0.222	0.200	0.143	0.226	0.226	0.236
+FIT_data	hasimoto	sennsyu	0.000	0.223	0.155	0.149	0.167	0.252	0.216
+FIT_data	hasimoto	sennsyu	0.000	0.216	0.204	0.145	0.289	0.274	0.218
+FIT_data	hasimoto	orinnpikku	0.000	0.213	0.115	0.243	0.133	0.178	0.215	0.225	0.138	0.211
+FIT_data	hasimoto	orinnpikku	0.000	0.180	0.109	0.190	0.132	0.157	0.194	0.219	0.120	0.171
+FIT_data	hasimoto	orinnpikku	0.000	0.197	0.104	0.219	0.178	0.252	0.194	0.186	0.138	0.152
+FIT_data	hasimoto	orinnpikku	0.000	0.171	0.117	0.228	0.130	0.179	0.210	0.206	0.116	0.178
+FIT_data	hasimoto	orinnpikku	0.000	0.191	0.129	0.257	0.131	0.185	0.208	0.224	0.110	0.188
+FIT_data	hasimoto	orinnpikku	0.000	0.209	0.124	0.206	0.130	0.161	0.212	0.205	0.125	0.172
+FIT_data	hasimoto	orinnpikku	0.000	0.187	0.105	0.239	0.125	0.198	0.197	0.274	0.170	0.885
+FIT_data	hasimoto	orinnpikku	0.000	0.203	0.120	0.200	0.131	0.167	0.203	0.216	0.113	0.200
+FIT_data	hasimoto	kikai	0.000	0.164	0.175	0.107	0.142
+FIT_data	hasimoto	kikai	0.000	0.171	0.148	0.132	0.138
+FIT_data	hasimoto	kikai	0.000	0.163	0.187	0.140	0.120
+FIT_data	hasimoto	kikai	0.000	0.173	0.144	0.135	0.136
+FIT_data	hasimoto	kikai	0.000	0.183	0.179	0.134	0.147
+FIT_data	hasimoto	kikai	0.000	0.181	0.160	0.114	0.128
+FIT_data	hasimoto	kikai	0.000	0.166	0.168	0.126	0.138
+FIT_data	hasimoto	kikai	0.000	0.173	0.176	0.121	0.174
+FIT_data	hasimoto	kikai	0.000	0.162	0.194	0.172	0.123
+FIT_data	hasimoto	kikai	0.000	0.204	0.193	0.127	0.180
+FIT_data	hasimoto	kikai	0.000	0.182	0.205	0.129	0.152
+FIT_data	hasimoto	kikai	0.000	0.179	0.179	0.118	0.149
+FIT_data	hasimoto	matatonai	0.000	0.268	0.268	0.084	0.237	0.140	0.155	0.134	0.134
+FIT_data	hasimoto	matatonai	0.000	0.150	0.296	0.079	0.257	0.104	0.158	0.089	0.170
+FIT_data	hasimoto	matatonai	0.000	0.158	0.253	0.085	0.262	0.116	0.153	0.099	0.157
+FIT_data	hasimoto	matatonai	0.000	0.567	0.259	0.100	0.245	0.099	0.144	0.115	0.130
+FIT_data	hasimoto	matatonai	0.000	0.154	0.270	0.089	0.251	0.136	0.162	0.109	0.126
+FIT_data	hasimoto	matatonai	0.000	0.172	0.269	0.083	0.253	0.173	0.151	0.141	0.163
+FIT_data	hasimoto	taisou	0.000	0.086	0.167	0.150	0.098	0.156
+FIT_data	hasimoto	taisou	0.000	0.087	0.187	0.124	0.119	0.192
+FIT_data	hasimoto	taisou	0.000	0.089	0.149	0.126	0.114	0.162
+FIT_data	hasimoto	taisou	0.000	0.090	0.116	0.165	0.117	0.148
+FIT_data	hasimoto	taisou	0.000	0.101	0.113	0.201	0.104	0.160
+FIT_data	hasimoto	taisou	0.000	0.075	0.178	0.118	0.108	0.134
+FIT_data	hasimoto	taisou	0.000	0.079	0.193	0.126	0.114	0.172
+FIT_data	hasimoto	sennsyu	0.000	0.194	0.169	0.131	0.114	0.162	0.179
+FIT_data	hasimoto	sennsyu	0.000	0.218	0.174	0.124	0.121	0.153	0.182
+FIT_data	hasimoto	sennsyu	0.000	0.207	0.143	0.134	0.113	0.157	0.173
+FIT_data	hasimoto	sennsyu	0.000	0.221	0.163	0.121	0.133	0.155	0.180
+FIT_data	hasimoto	sennsyu	0.000	0.209	0.157	0.118	0.115	0.148	0.183
+FIT_data	hasimoto	sennsyu	0.000	0.226	0.154	0.129	0.140	0.154	0.175
+FIT_data	hasimoto	orinnpikku	0.000	0.191	0.099	0.171	0.122	0.137	0.205	0.233	0.131	0.213
+FIT_data	hasimoto	orinnpikku	0.000	0.215	0.118	0.166	0.132	0.143	0.201	0.210	0.127	0.172
+FIT_data	hasimoto	orinnpikku	0.000	0.157	0.099	0.156	0.136	0.131	0.172	0.222	0.107	0.203
+FIT_data	hasimoto	orinnpikku	0.000	0.156	0.099	0.195	0.126	0.155	0.179	0.200	0.125	0.205
+FIT_data	hasimoto	orinnpikku	0.000	0.178	0.090	0.181	0.129	0.159	0.178	0.224	0.123	0.192
+FIT_data	hasimoto	orinnpikku	0.000	0.194	0.104	0.204	0.142	0.155	0.206	0.225	0.120	0.200
+FIT_data	hasimoto	kikai	0.000	0.154	0.174	0.122	0.128
+FIT_data	hasimoto	kikai	0.000	0.170	0.158	0.095	0.144
+FIT_data	hasimoto	kikai	0.000	0.150	0.175	0.105	0.113
+FIT_data	hasimoto	kikai	0.000	0.158	0.158	0.108	0.119
+FIT_data	hasimoto	kikai	0.000	0.146	0.190	0.116	0.135
+FIT_data	hasimoto	kikai	0.000	0.196	0.154	0.111	0.135
+FIT_data	hasimoto	kikai	0.000	0.160	0.167	0.127	0.136
+FIT_data	hasimoto	kikai	0.000	0.176	0.165	0.125	0.121
+FIT_data	hasimoto	kikai	0.000	0.179	0.163	0.148	0.128
+FIT_data	hasimoto	kikai	0.000	0.180	0.148	0.122	0.123
+FIT_data	hasimoto	matatonai	0.000	0.139	0.321	0.086	0.233	0.109	0.146	0.110	0.127
+FIT_data	hasimoto	matatonai	0.000	0.125	0.280	0.099	0.218	0.104	0.136	0.119	0.126
+FIT_data	hasimoto	matatonai	0.000	0.148	0.279	0.088	0.213	0.148	0.134	0.114	0.131
+FIT_data	hasimoto	matatonai	0.000	0.144	0.257	0.095	0.226	0.098	0.152	0.109	0.114
+FIT_data	hasimoto	matatonai	0.000	0.144	0.277	0.112	0.279	0.130	0.139	0.116	0.159
+FIT_data	hasimoto	taisou	0.000	0.081	0.151	0.134	0.118	0.168
+FIT_data	hasimoto	taisou	0.000	0.098	0.120	0.160	0.087	0.159
+FIT_data	hasimoto	taisou	0.000	0.100	0.135	0.129	0.099	0.136
+FIT_data	hasimoto	taisou	0.000	0.086	0.110	0.135	0.100	0.134
+FIT_data	hasimoto	taisou	0.000	0.089	0.155	0.132	0.113	0.162
+FIT_data	hasimoto	sennsyu	0.000	0.203	0.177	0.133	0.149	0.145	0.189
+FIT_data	hasimoto	sennsyu	0.000	0.191	0.094	0.118	0.128	0.140	0.169
+FIT_data	hasimoto	sennsyu	0.000	0.191	0.149	0.134	0.108	0.140	0.179
+FIT_data	hasimoto	sennsyu	0.000	0.180	0.125	0.125	0.116	0.138	0.172
+FIT_data	hasimoto	sennsyu	0.000	0.200	0.183	0.122	0.132	0.152	0.179
+FIT_data	okada	orinnpikku	0.000	0.169	0.104	0.189	0.120	0.182	0.185	0.209	0.131	0.319
+FIT_data	okada	orinnpikku	0.000	0.278	0.129	0.170	0.132	0.140	0.171	0.190	0.129	0.217
+FIT_data	okada	orinnpikku	0.000	0.144	0.113	0.147	0.142	0.182	0.220	0.261	0.167	0.336
+FIT_data	okada	orinnpikku	0.000	0.148	0.386	0.330	0.143	0.286	0.196	0.191	0.139	0.162
+FIT_data	okada	orinnpikku	0.000	0.184	0.070	0.176	0.143	0.196	0.184	0.229	0.126	0.258
+FIT_data	okada	orinnpikku	0.000	0.194	0.100	0.177	0.132	0.232	0.509	0.210	0.127	0.208
+FIT_data	okada	orinnpikku	0.000	0.142	0.096	0.197	0.150	0.163	0.179	0.211	0.123	0.194
+FIT_data	okada	orinnpikku	0.000	0.112	0.103	0.258	0.121	0.241	0.219	0.216	0.133	0.198
+FIT_data	okada	orinnpikku	0.000	0.174	0.091	0.171	0.134	0.172	0.223	0.196	0.131	0.221
+FIT_data	okada	orinnpikku	0.000	0.178	0.177	0.180	0.146	0.201	0.209	0.210	0.136	0.179
+FIT_data	okada	orinnpikku	0.000	0.153	0.109	0.253	0.145	0.795	0.262	0.221	0.129	0.187
+FIT_data	okada	orinnpikku	0.000	0.180	0.098	0.186	0.151	0.253	0.213	0.187	0.140	0.194
+FIT_data	okada	orinnpikku	0.000	0.163	0.094	0.181	0.160	0.201	0.223	0.215	0.122	0.232
+FIT_data	okada	orinnpikku	0.000	0.155	0.077	0.189	0.139	0.245	0.208	0.197	0.131	0.230
+FIT_data	okada	kikai	0.000	0.168	0.190	0.118	0.152
+FIT_data	okada	kikai	0.000	0.216	0.191	0.107	0.133
+FIT_data	okada	kikai	0.000	0.209	0.212	0.120	0.136
+FIT_data	okada	kikai	0.000	0.164	0.195	0.109	0.151
+FIT_data	okada	kikai	0.000	0.200	0.203	0.109	0.151
+FIT_data	okada	kikai	0.000	0.181	0.205	0.119	0.142
+FIT_data	okada	kikai	0.000	0.232	0.193	0.099	0.206
+FIT_data	okada	kikai	0.000	0.197	0.233	0.157	0.268
+FIT_data	okada	kikai	0.000	0.213	0.217	0.115	0.219
+FIT_data	okada	kikai	0.000	0.186	0.184	0.095	0.213
+FIT_data	okada	kikai	0.000	0.208	0.226	0.163	0.236
+FIT_data	okada	kikai	0.000	0.217	0.214	0.100	0.182
+FIT_data	okada	kikai	0.000	0.196	0.211	0.125	0.320
+FIT_data	okada	kikai	0.000	0.242	0.210	0.114	0.202
+FIT_data	okada	kikai	0.000	0.202	0.204	0.101	0.200
+FIT_data	okada	kikai	0.000	0.216	0.226	0.139	0.181
+FIT_data	okada	kikai	0.000	0.199	0.190	0.100	0.193
+FIT_data	okada	kikai	0.000	0.233	0.210	0.134	0.179
+FIT_data	okada	kikai	0.000	0.205	0.220	0.120	0.164
+FIT_data	okada	kikai	0.000	0.226	0.200	0.140	0.163
+FIT_data	okada	kikai	0.000	0.168	0.209	0.274	0.327
+FIT_data	okada	matatonai	0.000	0.139	0.150	0.308	0.231	0.160	0.250	0.076	0.144
+FIT_data	okada	matatonai	0.000	0.139	0.166	0.106	0.160	0.191	0.177	0.069	0.159
+FIT_data	okada	matatonai	0.000	0.088	0.168	0.098	0.143	0.213	0.201	0.116	0.527
+FIT_data	okada	matatonai	0.000	0.123	0.173	0.101	0.157	0.273	0.250	0.093	0.271
+FIT_data	okada	matatonai	0.000	0.085	0.159	0.084	0.129	0.149	0.160	0.079	0.165
+FIT_data	okada	matatonai	0.000	0.139	0.194	0.118	0.200	0.153	0.231	0.095	0.164
+FIT_data	okada	matatonai	0.000	0.140	0.127	0.206	0.270	0.196	0.384	0.105	0.183
+FIT_data	okada	taisou	0.000	0.090	0.417	0.125	0.089	0.154
+FIT_data	okada	taisou	0.000	0.060	0.193	0.110	0.074	0.144
+FIT_data	okada	taisou	0.000	0.074	0.257	0.158	0.121	0.098
+FIT_data	okada	taisou	0.000	0.069	0.199	0.117	0.103	0.127
+FIT_data	okada	taisou	0.000	0.069	0.162	0.123	0.066	0.148
+FIT_data	okada	taisou	0.000	0.064	0.186	0.133	0.045	0.174
+FIT_data	okada	taisou	0.000	0.071	0.219	0.134	0.124	0.124
+FIT_data	okada	taisou	0.000	0.067	0.179	0.124	0.040	0.173
+FIT_data	okada	sennsyu	0.000	0.164	0.107	0.121	0.068	0.179	0.096
+FIT_data	okada	sennsyu	0.000	0.151	0.153	0.129	0.127	0.153	0.083
+FIT_data	okada	sennsyu	0.000	0.170	0.150	0.122	0.123	0.145	0.116
+FIT_data	okada	sennsyu	0.000	0.161	0.102	0.150	0.130	0.147	0.121
+FIT_data	okada	sennsyu	0.000	0.168	0.083	0.120	0.148	0.132	0.096
+FIT_data	okada	sennsyu	0.000	0.200	0.174	0.151	0.223	0.139	0.078
+FIT_data	okada	sennsyu	0.000	0.175	0.083	0.144	0.165	0.114	0.109
+FIT_data	okada	orinpikku	0.000	0.151	0.115	0.313	0.258	0.203	0.216	0.112	0.167
+FIT_data	okada	orinnpikku	0.000	0.102	0.107	0.155	0.143	0.211	0.174	0.209	0.121	0.189
+FIT_data	okada	orinnpikku	0.000	0.323	0.089	0.183	0.155	0.180	0.215	0.202	0.135	0.170
+FIT_data	okada	orinnpikku	0.000	0.112	0.108	0.203	0.154	0.155	0.182	0.202	0.530	0.261
+FIT_data	okada	orinnpikku	0.000	0.132	0.103	0.159	0.116	0.285	0.230	0.209	0.162	0.208
+FIT_data	okada	orinnpikku	0.000	0.127	0.101	0.202	0.145	0.228	0.206	0.194	0.133	0.218
+FIT_data	okada	orinnpikku	0.000	0.141	0.365	0.179	0.152	0.178	0.193	0.194	0.138	0.214
+FIT_data	okada	orinnpikku	0.000	0.133	0.119	0.196	0.137	0.167	0.195	0.209	0.135	0.199
+FIT_data	okada	orinnpikku	0.000	0.130	0.109	0.160	0.154	0.788	0.314	0.532	0.487	0.292
+FIT_data	okada	orinnpikku	0.000	0.178	0.109	0.213	0.138	0.160	0.197	0.187	0.144	0.192
+FIT_data	okada	orinnpikku	0.000	0.136	0.114	0.164	0.135	0.204	0.200	0.190	0.142	0.211
+FIT_data	okada	orinnpikku	0.000	0.181	0.083	0.191	0.126	0.165	0.202	0.181	0.134	0.234
+FIT_data	okada	orinnpikku	0.000	0.203	0.118	0.180	0.148	0.184	0.202	0.207	0.132	0.225
+FIT_data	okada	orinnpikku	0.000	0.168	0.077	0.168	0.152	0.181	0.170	0.207	0.110	0.234
+FIT_data	okada	orinnpikku	0.000	0.148	0.110	0.168	0.157	0.187	0.177	0.205	0.132	0.217
+FIT_data	okada	orinnpikku	0.000	0.154	0.113	0.166	0.143	0.211	0.180	0.198	0.130	0.216
+FIT_data	okada	kikai	0.000	0.213	0.189	0.109	0.128
+FIT_data	okada	kikai	0.000	0.201	0.210	0.100	0.139
+FIT_data	okada	kikai	0.000	0.185	0.246	0.112	0.145
+FIT_data	okada	kikai	0.000	0.218	0.191	0.109	0.136
+FIT_data	okada	kikai	0.000	0.182	0.221	0.099	0.198
+FIT_data	okada	kikai	0.000	0.208	0.199	0.110	0.139
+FIT_data	okada	kikai	0.000	0.212	0.198	0.118	0.150
+FIT_data	okada	kikai	0.000	0.191	0.196	0.150	0.181
+FIT_data	okada	kikai	0.000	0.191	0.173	0.112	0.235
+FIT_data	okada	kikai	0.000	0.187	0.194	0.090	0.195
+FIT_data	okada	kikai	0.000	0.196	0.187	0.129	0.283
+FIT_data	okada	kikai	0.000	0.169	0.189	0.138	0.275
+FIT_data	okada	kikai	0.000	0.179	0.498	0.352	0.177
+FIT_data	okada	kikai	0.000	0.189	0.198	0.167	0.253
+FIT_data	okada	kikai	0.000	0.220	0.205	0.120	0.178
+FIT_data	okada	kikai	0.000	0.205	0.207	0.128	0.155
+FIT_data	okada	kikai	0.000	0.209	0.236	0.248	0.250
+FIT_data	okada	kikai	0.000	0.211	0.201	0.116	0.224
+FIT_data	okada	kikai	0.000	0.205	0.236	0.134	0.149
+FIT_data	okada	kikai	0.000	0.161	0.240	0.136	0.228
+FIT_data	okada	matatonai	0.000	0.110	0.107	0.084	0.280	0.174	0.160	0.099	0.129
+FIT_data	okada	matatonai	0.000	0.079	0.149	0.078	0.160	0.209	0.181	0.115	0.129
+FIT_data	okada	matatonai	0.000	0.125	0.170	0.111	0.117	0.493	0.294	0.118	0.114
+FIT_data	okada	matatonai	0.000	0.109	0.601	0.080	0.225	0.152	0.159	0.075	0.124
+FIT_data	okada	matatonai	0.000	0.141	0.152	0.168	0.102	0.171	0.185	0.089	0.184
+FIT_data	okada	taisou	0.000	0.087	0.186	0.099	0.085	0.138
+FIT_data	okada	taisou	0.000	0.073	0.175	0.162	0.103	0.119
+FIT_data	okada	taisou	0.000	0.089	0.230	0.105	0.108	0.147
+FIT_data	okada	taisou	0.000	0.072	0.188	0.115	0.053	0.158
+FIT_data	okada	taisou	0.000	0.080	0.155	0.115	0.054	0.109
+FIT_data	okada	taisou	0.000	0.094	0.213	0.097	0.098	0.131
+FIT_data	okada	taisou	0.000	0.062	0.160	0.056	0.133	0.134
+FIT_data	okada	taisou	0.000	0.068	0.145	0.143	0.054	0.163
+FIT_data	okada	taisou	0.000	0.079	0.174	0.100	0.115	0.155
+FIT_data	okada	sennsyu	0.000	0.185	0.137	0.135	0.030	0.189	0.111
+FIT_data	okada	sennsyu	0.000	0.181	0.113	0.117	0.095	0.157	0.118
+FIT_data	okada	sennsyu	0.000	0.146	0.132	0.129	0.084	0.205	0.103
+FIT_data	okada	sennsyu	0.000	0.149	0.094	0.125	0.080	0.176	0.089
+FIT_data	okada	sennsyu	0.000	0.152	0.132	0.114	0.117	0.151	0.099
+FIT_data	okada	sennsyu	0.000	0.155	0.130	0.317	0.280	0.144	0.090
+FIT_data	okada	sennsyu	0.000	0.170	0.182	0.130	0.156	0.139	0.105
+FIT_data	okada	sennsyu	0.000	0.161	0.135	0.167	0.184	0.124	0.074
+FIT_data	okada	orinpikku	0.000	0.286	0.260	0.293	0.305	0.315	0.329	0.544	0.326
+FIT_data	okada	orinnpikku	0.000	0.250	0.209	0.308	0.158	0.287	0.561	0.352	0.181	0.316
+FIT_data	okada	orinnpikku	0.000	0.248	0.125	0.218	0.174	0.233	0.246	0.418	0.186	0.295
+FIT_data	okada	orinnpikku	0.000	0.326	0.283	0.281	0.299	0.270	0.314	0.316	0.244	0.294
+FIT_data	okada	orinnpikku	0.000	0.314	0.252	0.431	0.243	0.295	0.313	0.315	0.235	0.449
+FIT_data	okada	orinnpikku	0.000	0.382	0.262	0.449	0.300	0.287	0.323	0.330	0.293	0.350
+FIT_data	okada	orinnpikku	0.000	0.322	0.307	0.490	0.363	0.265	0.285	0.271	0.249	0.293
+FIT_data	okada	kikai	0.000	0.241	0.245	0.109	0.225
+FIT_data	okada	kikai	0.000	0.296	0.361	0.233	0.307
+FIT_data	okada	kikai	0.000	0.266	0.265	0.205	0.436
+FIT_data	okada	kikai	0.000	0.277	0.301	0.162	0.333
+FIT_data	okada	kikai	0.000	0.297	0.265	0.312	0.330
+FIT_data	okada	kikai	0.000	0.257	0.257	0.325	0.288
+FIT_data	okada	kikai	0.000	0.280	0.278	0.367	0.344
+FIT_data	okada	kikai	0.000	0.286	0.346	0.306	0.308
+FIT_data	okada	kikai	0.000	0.324	0.284	0.346	0.281
+FIT_data	okada	kikai	0.000	0.386	0.298	0.313	0.398
+FIT_data	okada	kikai	0.000	0.297	0.338	0.292	0.301
+FIT_data	okada	kikai	0.000	0.261	0.239	0.143	0.297
+FIT_data	okada	matatonai	0.000	0.258	0.354	0.197	0.380	0.371	0.414	0.148	0.276
+FIT_data	okada	matatonai	0.000	0.281	0.328	0.139	0.319	0.307	0.314	0.154	0.207
+FIT_data	okada	matatonai	0.000	0.197	0.367	0.235	0.431	0.332	0.379	0.244	0.295
+FIT_data	okada	matatonai	0.000	0.253	0.353	0.185	0.320	0.286	0.257	0.217	0.382
+FIT_data	okada	matatonai	0.000	0.258	0.373	0.174	0.288	0.215	0.325	0.176	0.213
+FIT_data	okada	taisou	0.000	0.093	0.304	0.138	0.155	0.204
+FIT_data	okada	taisou	0.000	0.128	0.284	0.311	0.273	0.320
+FIT_data	okada	taisou	0.000	0.119	0.383	0.279	0.242	0.218
+FIT_data	okada	taisou	0.000	0.114	0.280	0.200	0.301	0.367
+FIT_data	okada	taisou	0.000	0.382	0.324	0.312	0.289	0.376
+FIT_data	okada	taisou	0.000	0.363	0.428	0.280	0.300	0.376
+FIT_data	okada	taisou	0.000	0.146	0.417	0.213	0.201	0.228
+FIT_data	okada	sennsyu	0.000	0.177	0.201	0.171	0.148	0.222	0.124
+FIT_data	okada	sennsyu	0.000	0.234	0.364	0.213	0.308	0.281	0.160
+FIT_data	okada	sennsyu	0.000	0.239	0.317	0.197	0.301	0.188	0.137
+FIT_data	okada	sennsyu	0.000	0.386	0.361	0.214	0.279	0.401	0.228
+FIT_data	okada	sennsyu	0.000	0.252	0.382	0.214	0.275	0.276	0.189
+FIT_data	okada	sennsyu	0.000	0.218	0.394	0.197	0.410	0.320	0.103
+FIT_data	okada	orinnpikku	0.000	0.275	0.214	0.240	0.142	0.249	0.288	0.264	0.167	0.283
+FIT_data	okada	orinnpikku	0.000	0.369	0.201	0.338	0.577	0.276	0.388	0.311	0.190	0.277
+FIT_data	okada	orinnpikku	0.000	0.253	0.191	0.406	0.336	0.261	0.267	0.286	0.237	0.300
+FIT_data	okada	orinnpikku	0.000	0.333	0.162	0.285	0.249	0.307	0.241	0.237	0.178	0.316
+FIT_data	okada	orinnpikku	0.000	0.237	0.173	0.342	0.359	0.253	0.245	0.260	0.213	0.268
+FIT_data	okada	orinnpikku	0.000	0.208	0.128	0.301	0.208	0.442	0.223	0.217	0.154	0.267
+FIT_data	okada	orinnpikku	0.000	0.218	0.119	0.323	0.311	0.297	0.231	0.264	0.307	0.278
+FIT_data	okada	kikai	0.000	0.253	0.217	0.149	0.238
+FIT_data	okada	kikai	0.000	0.232	0.212	0.261	0.316
+FIT_data	okada	kikai	0.000	0.272	0.300	0.153	0.249
+FIT_data	okada	kikai	0.000	0.297	0.233	0.129	0.319
+FIT_data	okada	kikai	0.000	0.274	0.370	0.217	0.305
+FIT_data	okada	kikai	0.000	0.252	0.225	0.084	0.250
+FIT_data	okada	kikai	0.000	0.261	0.235	0.154	0.250
+FIT_data	okada	kikai	0.000	0.239	0.214	0.110	0.184
+FIT_data	okada	kikai	0.000	0.259	0.265	0.318	0.316
+FIT_data	okada	kikai	0.000	0.248	0.233	0.143	0.262
+FIT_data	okada	kikai	0.000	0.228	0.241	0.190	0.270
+FIT_data	okada	kikai	0.000	0.220	0.204	0.129	0.200
+FIT_data	okada	matatonai	0.000	0.158	0.245	0.182	0.223	0.203	0.218	0.129	0.205
+FIT_data	okada	matatonai	0.000	0.128	0.237	0.129	0.222	0.196	0.322	0.135	0.184
+FIT_data	okada	matatonai	0.000	0.158	0.252	0.170	0.206	0.218	0.291	0.167	0.225
+FIT_data	okada	matatonai	0.000	0.086	0.229	0.114	0.158	0.177	0.212	0.136	0.224
+FIT_data	okada	matatonai	0.000	0.251	0.305	0.156	0.475	0.249	0.223	0.128	0.260
+FIT_data	okada	matatonai	0.000	0.131	0.213	0.123	0.229	0.228	0.300	0.105	0.167
+FIT_data	okada	taisou	0.000	0.102	0.275	0.159	0.154	0.221
+FIT_data	okada	taisou	0.000	0.123	0.389	0.217	0.181	0.221
+FIT_data	okada	taisou	0.000	0.193	0.320	0.211	0.149	0.606
+FIT_data	okada	taisou	0.000	0.172	0.261	0.172	0.215	0.243
+FIT_data	okada	taisou	0.000	0.099	0.217	0.238	0.090	0.203
+FIT_data	okada	sennsyu	0.000	0.211	0.282	0.205	0.235	0.216	0.178
+FIT_data	okada	sennsyu	0.000	0.214	0.319	0.258	0.262	0.217	0.347
+FIT_data	okada	sennsyu	0.000	0.212	0.240	0.198	0.261	0.180	0.143
+FIT_data	okada	sennsyu	0.000	0.189	0.190	0.170	0.150	0.231	0.134
+FIT_data	okada	sennsyu	0.000	0.218	0.208	0.233	0.349	0.158	0.084
+FIT_data	okada	sennsyu	0.000	0.213	0.198	0.151	0.169	0.358	0.259
+FIT_data	okada	orinnpikku	0.000	0.217	0.292	0.346	0.178	0.286	0.251	0.248	0.201	0.324
+FIT_data	okada	orinnpikku	0.000	0.185	0.080	0.164	0.147	0.169	0.204	0.230	0.139	0.220
+FIT_data	okada	orinnpikku	0.000	0.122	0.094	0.164	0.148	0.192	0.193	0.216	0.129	0.228
+FIT_data	okada	orinnpikku	0.000	0.127	0.105	0.188	0.218	0.276	0.177	0.217	0.134	0.213
+FIT_data	okada	orinnpikku	0.000	0.133	0.085	0.164	0.152	0.189	0.217	0.189	0.149	0.215
+FIT_data	okada	orinnpikku	0.000	0.227	0.095	0.165	0.145	0.190	0.176	0.201	0.134	0.194
+FIT_data	okada	orinnpikku	0.000	0.144	0.109	0.224	0.145	0.208	0.192	0.214	0.137	0.211
+FIT_data	okada	orinnpikku	0.000	0.136	0.116	0.188	0.118	0.214	0.238	0.227	0.134	0.207
+FIT_data	okada	orinnpikku	0.000	0.138	0.108	0.175	0.149	0.177	0.181	0.222	0.139	0.190
+FIT_data	okada	orinnpikku	0.000	0.161	0.095	0.209	0.144	0.177	0.182	0.216	0.128	0.215
+FIT_data	okada	orinnpikku	0.000	0.156	0.103	0.179	0.120	0.207	0.206	0.258	0.147	0.250
+FIT_data	okada	orinnpikku	0.000	0.214	0.108	0.180	0.141	0.204	0.320	0.232	0.133	0.332
+FIT_data	okada	orinnpikku	0.000	0.169	0.099	0.167	0.134	0.206	0.192	0.199	0.136	0.247
+FIT_data	okada	orinnpikku	0.000	0.153	0.107	0.208	0.174	0.221	0.174	0.224	0.139	0.239
+FIT_data	okada	kikai	0.000	0.212	0.212	0.123	0.189
+FIT_data	okada	kikai	0.000	0.221	0.202	0.098	0.187
+FIT_data	okada	kikai	0.000	0.241	0.279	0.093	0.128
+FIT_data	okada	kikai	0.000	0.201	0.202	0.092	0.182
+FIT_data	okada	kikai	0.000	0.209	0.204	0.050	0.167
+FIT_data	okada	kikai	0.000	0.215	0.221	0.103	0.166
+FIT_data	okada	kikai	0.000	0.176	0.203	0.113	0.137
+FIT_data	okada	kikai	0.000	0.215	0.220	0.100	0.164
+FIT_data	okada	kikai	0.000	0.198	0.207	0.104	0.150
+FIT_data	okada	kikai	0.000	0.203	0.235	0.124	0.154
+FIT_data	okada	kikai	0.000	0.185	0.242	0.139	0.450
+FIT_data	okada	kikai	0.000	0.228	0.225	0.136	0.157
+FIT_data	okada	kikai	0.000	0.203	0.199	0.106	0.173
+FIT_data	okada	kikai	0.000	0.209	0.199	0.094	0.163
+FIT_data	okada	kikai	0.000	0.235	0.215	0.109	0.141
+FIT_data	okada	kikai	0.000	0.201	0.217	0.116	0.148
+FIT_data	okada	kikai	0.000	0.299	0.401	0.112	0.187
+FIT_data	okada	kikai	0.000	0.204	0.229	0.122	0.292
+FIT_data	okada	kikai	0.000	0.212	0.216	0.089	0.192
+FIT_data	okada	kikai	0.000	0.191	0.224	0.144	0.311
+FIT_data	okada	kikai	0.000	0.201	0.213	0.218	0.219
+FIT_data	okada	matatonai	0.000	0.076	0.172	0.118	0.125	0.151	0.174	0.112	0.109
+FIT_data	okada	matatonai	0.000	0.100	0.154	0.100	0.168	0.427	0.219	0.088	0.129
+FIT_data	okada	matatonai	0.000	0.118	0.156	0.084	0.162	0.161	0.191	0.060	0.143
+FIT_data	okada	matatonai	0.000	0.133	0.157	0.079	0.317	0.157	0.192	0.079	0.129
+FIT_data	okada	matatonai	0.000	0.138	0.175	0.021	0.435	0.135	0.189	0.118	0.116
+FIT_data	okada	matatonai	0.000	0.136	0.169	0.078	0.210	0.178	0.436	0.103	0.147
+FIT_data	okada	matatonai	0.000	0.138	0.244	0.188	0.273	0.123	0.543	0.095	0.111
+FIT_data	okada	matatonai	0.000	0.110	0.145	0.141	0.143	0.207	0.198	0.069	0.163
+FIT_data	okada	taisou	0.000	0.093	0.207	0.114	0.095	0.138
+FIT_data	okada	taisou	0.000	0.119	0.154	0.099	0.099	0.135
+FIT_data	okada	taisou	0.000	0.100	0.155	0.142	0.074	0.123
+FIT_data	okada	taisou	0.000	0.105	0.190	0.113	0.078	0.142
+FIT_data	okada	taisou	0.000	0.090	0.224	0.325	0.126	0.132
+FIT_data	okada	taisou	0.000	0.103	0.177	0.121	0.075	0.161
+FIT_data	okada	taisou	0.000	0.104	0.154	0.110	0.116	0.146
+FIT_data	okada	taisou	0.000	0.096	0.239	0.115	0.080	0.134
+FIT_data	okada	taisou	0.000	0.065	0.151	0.126	0.104	0.139
+FIT_data	okada	taisou	0.000	0.106	0.154	0.115	0.115	0.156
+FIT_data	okada	taisou	0.000	0.101	0.211	0.107	0.110	0.133
+FIT_data	okada	sennsyu	0.000	0.185	0.136	0.142	0.135	0.146	0.124
+FIT_data	okada	sennsyu	0.000	0.172	0.110	0.151	0.065	0.213	0.093
+FIT_data	okada	sennsyu	0.000	0.181	0.116	0.130	0.252	0.111	0.113
+FIT_data	okada	sennsyu	0.000	0.174	0.126	0.144	0.133	0.158	0.126
+FIT_data	okada	sennsyu	0.000	0.179	0.153	0.158	0.152	0.160	0.078
+FIT_data	okada	sennsyu	0.000	0.162	0.151	0.148	0.235	0.138	0.099
+FIT_data	okada	sennsyu	0.000	0.199	0.131	0.136	0.146	0.156	0.110
+FIT_data	okada	sennsyu	0.000	0.165	0.181	0.159	0.230	0.195	0.122
+FIT_data	okada	sennsyu	0.000	0.180	0.136	0.134	0.232	0.186	0.082
+FIT_data	okada	orinpikku	0.000	0.164	0.114	0.330	0.176	0.217	0.225	0.150	0.473
+FIT_data	okada	orinnpikku	0.000	0.175	0.106	0.203	0.153	0.204	0.182	0.230	0.144	0.195
+FIT_data	okada	orinnpikku	0.000	0.165	0.093	0.173	0.142	0.184	0.175	0.235	0.131	0.209
+FIT_data	okada	orinnpikku	0.000	0.155	0.106	0.187	0.158	0.160	0.184	0.226	0.139	0.221
+FIT_data	okada	orinnpikku	0.000	0.165	0.123	0.181	0.129	0.205	0.245	0.328	0.149	0.210
+FIT_data	okada	orinnpikku	0.000	0.179	0.121	0.221	0.138	0.218	0.196	0.417	0.143	0.217
+FIT_data	okada	orinnpikku	0.000	0.174	0.100	0.191	0.138	0.182	0.209	0.194	0.134	0.241
+FIT_data	okada	orinnpikku	0.000	0.163	0.089	0.158	0.146	0.181	0.230	0.227	0.127	0.244
+FIT_data	okada	orinnpikku	0.000	0.196	0.100	0.378	0.153	0.135	0.199	0.212	0.132	0.207
+FIT_data	okada	orinnpikku	0.000	0.169	0.097	0.181	0.136	0.177	0.200	0.209	0.135	0.213
+FIT_data	okada	kikai	0.000	0.204	0.200	0.100	0.124
+FIT_data	okada	kikai	0.000	0.201	0.210	0.104	0.120
+FIT_data	okada	kikai	0.000	0.209	0.216	0.115	0.134
+FIT_data	okada	kikai	0.000	0.204	0.197	0.158	0.281
+FIT_data	okada	kikai	0.000	0.210	0.211	0.104	0.142
+FIT_data	okada	kikai	0.000	0.178	0.205	0.114	0.163
+FIT_data	okada	kikai	0.000	0.211	0.201	0.130	0.172
+FIT_data	okada	kikai	0.000	0.257	0.236	0.089	0.171
+FIT_data	okada	kikai	0.000	0.235	0.218	0.102	0.179
+FIT_data	okada	kikai	0.000	0.226	0.225	0.094	0.170
+FIT_data	okada	kikai	0.000	0.200	0.252	0.160	0.269
+FIT_data	okada	kikai	0.000	0.228	0.215	0.108	0.227
+FIT_data	okada	kikai	0.000	0.202	0.228	0.276	0.258
+FIT_data	okada	kikai	0.000	0.203	0.206	0.131	0.224
+FIT_data	okada	kikai	0.000	0.191	0.215	0.084	0.164
+FIT_data	okada	kikai	0.000	0.209	0.212	0.114	0.186
+FIT_data	okada	matatonai	0.000	0.125	0.110	0.119	0.215	0.190	0.178	0.104	0.097
+FIT_data	okada	matatonai	0.000	0.130	0.236	0.138	0.152	0.201	0.197	0.114	0.103
+FIT_data	okada	matatonai	0.000	0.125	0.152	0.103	0.195	0.175	0.201	0.078	0.171
+FIT_data	okada	matatonai	0.000	0.126	0.135	0.123	0.124	0.158	0.164	0.082	0.120
+FIT_data	okada	matatonai	0.000	0.121	0.174	0.133	0.247	0.179	0.200	0.109	0.109
+FIT_data	okada	matatonai	0.000	0.105	0.167	0.092	0.138	0.167	0.165	0.071	0.148
+FIT_data	okada	taisou	0.000	0.051	0.194	0.111	0.085	0.143
+FIT_data	okada	taisou	0.000	0.089	0.158	0.123	0.058	0.195
+FIT_data	okada	taisou	0.000	0.103	0.209	0.129	0.097	0.135
+FIT_data	okada	taisou	0.000	0.100	0.178	0.115	0.061	0.152
+FIT_data	okada	taisou	0.000	0.080	0.171	0.187	0.091	0.158
+FIT_data	okada	taisou	0.000	0.079	0.166	0.125	0.105	0.136
+FIT_data	okada	taisou	0.000	0.056	0.744	0.188	0.118	0.160
+FIT_data	okada	taisou	0.000	0.089	0.242	0.104	0.126	0.134
+FIT_data	okada	taisou	0.000	0.089	0.299	0.200	0.096	0.164
+FIT_data	okada	sennsyu	0.000	0.180	0.148	0.137	0.128	0.172	0.103
+FIT_data	okada	sennsyu	0.000	0.155	0.152	0.144	0.137	0.153	0.105
+FIT_data	okada	sennsyu	0.000	0.181	0.109	0.130	0.155	0.142	0.127
+FIT_data	okada	sennsyu	0.000	0.185	0.134	0.149	0.099	0.181	0.104
+FIT_data	okada	sennsyu	0.000	0.173	0.165	0.133	0.080	0.194	0.099
+FIT_data	okada	sennsyu	0.000	0.216	0.156	0.144	0.147	0.169	0.106
+FIT_data	okada	sennsyu	0.000	0.154	0.148	0.130	0.085	0.178	0.092
+FIT_data	okada	sennsyu	0.000	0.151	0.169	0.143	0.147	0.154	0.113
+FIT_data	okada	sennsyu	0.000	0.151	0.149	0.132	0.228	0.170	0.119
+FIT_data	ando	orinpikku	0.000	0.169	0.049	0.165	0.224	1.091	0.286	0.166	0.070
+FIT_data	ando	orinnpikku	0.000	0.757	0.070	0.180	0.105	0.489	0.364	0.246	0.127	0.114
+FIT_data	ando	orinnpikku	0.000	0.120	0.070	0.149	0.108	0.198	0.200	0.235	0.169	0.083
+FIT_data	ando	orinnpikku	0.000	0.185	0.076	0.152	0.110	0.253	0.380	0.227	0.147	0.116
+FIT_data	ando	orinnpikku	0.000	0.216	0.060	0.154	0.128	0.435	0.209	0.201	0.149	0.099
+FIT_data	ando	orinnpikku	0.000	0.212	0.043	0.192	0.095	0.504	0.229	0.215	0.137	0.100
+FIT_data	ando	orinnpikku	0.000	0.154	0.069	0.146	0.098	0.255	0.457	0.308	0.150	0.095
+FIT_data	ando	kikai	0.000	0.134	0.180	0.110	0.079
+FIT_data	ando	kikai	0.000	0.169	0.193	0.069	0.096
+FIT_data	ando	kikai	0.000	0.155	0.165	0.095	0.054
+FIT_data	ando	kikai	0.000	0.144	0.174	0.094	0.059
+FIT_data	ando	kikai	0.000	0.138	0.189	0.491	0.275
+FIT_data	ando	kikai	0.000	0.137	0.188	0.081	0.073
+FIT_data	ando	kikai	0.000	0.156	0.174	0.065	0.091
+FIT_data	ando	kikai	0.000	0.148	0.171	0.063	0.100
+FIT_data	ando	kikai	0.000	0.167	0.196	0.130	0.071
+FIT_data	ando	kikai	0.000	0.148	0.167	0.161	0.055
+FIT_data	ando	matatonai	0.000	0.044	0.233	0.045	0.301	0.079	0.180	0.063	0.132
+FIT_data	ando	matatonai	0.000	0.035	0.146	0.070	0.305	0.040	0.169	0.064	0.102
+FIT_data	ando	matatonai	0.000	0.049	0.174	0.099	0.429	0.050	0.180	0.058	0.099
+FIT_data	ando	matatonai	0.000	0.059	0.143	0.075	0.561	0.033	0.139	0.079	0.079
+FIT_data	ando	matatonai	0.000	0.065	0.142	0.108	0.470	0.055	0.146	0.089	0.083
+FIT_data	ando	taisou	0.000	0.049	0.284	0.173	0.052	0.100
+FIT_data	ando	taisou	0.000	0.069	0.108	0.552	0.043	0.130
+FIT_data	ando	taisou	0.000	0.048	0.144	0.123	0.053	0.099
+FIT_data	ando	taisou	0.000	0.070	0.367	0.144	0.077	0.098
+FIT_data	ando	taisou	0.000	0.060	0.144	0.114	0.061	0.100
+FIT_data	ando	sennsyu	0.000	0.063	0.150	0.100	0.400	0.075	0.035
+FIT_data	ando	sennsyu	0.000	0.136	0.129	0.122	0.164	0.095	0.038
+FIT_data	ando	sennsyu	0.000	0.681	0.503	0.121	0.121	0.094	0.998
+FIT_data	ando	sennsyu	0.000	0.034	0.120	0.109	0.213	0.083	0.066
+FIT_data	ando	sennsyu	0.000	0.019	0.119	0.106	0.189	0.089	0.055
+FIT_data	ando	orinnpikku	0.000	0.170	0.054	0.151	0.102	0.153	0.227	0.189	0.119	0.084
+FIT_data	ando	orinnpikku	0.000	0.221	0.066	0.152	0.099	0.141	0.225	0.253	0.145	0.094
+FIT_data	ando	orinnpikku	0.000	0.184	0.054	0.143	0.102	0.180	0.194	0.191	0.116	0.045
+FIT_data	ando	orinnpikku	0.000	0.137	0.071	0.144	0.087	0.179	0.184	0.188	0.102	0.087
+FIT_data	ando	orinnpikku	0.000	0.207	0.034	0.165	0.101	0.462	0.144	0.193	0.119	0.089
+FIT_data	ando	orinnpikku	0.000	0.418	0.054	0.157	0.113	0.220	0.171	0.182	0.128	0.080
+FIT_data	ando	orinnpikku	0.000	0.206	0.049	0.186	0.106	0.275	0.206	0.227	0.251	0.109
+FIT_data	ando	orinnpikku	0.000	0.215	0.039	0.161	0.133	0.445	0.196	0.216	0.170	0.168
+FIT_data	ando	orinnpikku	0.000	0.432	0.063	0.147	0.099	0.443	0.177	0.185	0.347	0.108
+FIT_data	ando	orinnpikku	0.000	0.228	0.060	0.169	0.091	0.424	0.165	0.393	0.161	0.090
+FIT_data	ando	kikai	0.000	0.178	0.158	0.076	0.084
+FIT_data	ando	kikai	0.000	0.127	0.145	0.099	0.054
+FIT_data	ando	kikai	0.000	0.217	0.196	0.112	0.072
+FIT_data	ando	kikai	0.000	0.136	0.202	0.118	0.062
+FIT_data	ando	kikai	0.000	0.233	0.187	0.127	0.059
+FIT_data	ando	kikai	0.000	0.178	0.191	0.114	0.064
+FIT_data	ando	kikai	0.000	0.150	0.163	0.099	0.070
+FIT_data	ando	kikai	0.000	0.166	0.168	0.108	0.055
+FIT_data	ando	kikai	0.000	0.217	0.199	0.089	0.104
+FIT_data	ando	kikai	0.000	0.194	0.190	0.116	0.083
+FIT_data	ando	kikai	0.000	0.153	0.166	0.062	0.149
+FIT_data	ando	kikai	0.000	0.165	0.647	0.090	0.089
+FIT_data	ando	kikai	0.000	0.167	0.166	0.113	0.055
+FIT_data	ando	matatonai	0.000	0.030	0.229	0.031	0.520	0.058	0.441	0.049	0.107
+FIT_data	ando	matatonai	0.000	0.044	0.175	0.050	0.299	0.058	0.278	0.092	0.109
+FIT_data	ando	matatonai	0.000	0.081	0.167	0.076	0.226	0.069	0.143	0.060	0.115
+FIT_data	ando	matatonai	0.000	0.079	0.153	0.070	0.242	0.094	0.205	0.078	0.108
+FIT_data	ando	matatonai	0.000	0.129	0.157	0.091	0.309	0.095	0.173	0.063	0.121
+FIT_data	ando	matatonai	0.000	0.075	0.233	0.067	0.261	0.049	0.155	0.069	0.108
+FIT_data	ando	taisou	0.000	0.056	0.098	0.125	0.070	0.094
+FIT_data	ando	taisou	0.000	0.039	0.158	0.212	0.061	0.115
+FIT_data	ando	taisou	0.000	0.043	0.159	0.099	0.077	0.098
+FIT_data	ando	taisou	0.000	0.053	0.107	0.135	0.080	0.089
+FIT_data	ando	taisou	0.000	0.046	0.139	0.141	0.094	0.105
+FIT_data	ando	taisou	0.000	0.044	0.176	0.101	0.087	0.091
+FIT_data	ando	sensyu	0.000	0.039	0.075	0.251	0.094	0.041
+FIT_data	ando	sennsyu	0.000	0.049	0.075	0.109	0.228	0.020	0.021
+FIT_data	ando	sennsyu	0.000	0.061	0.114	0.105	0.149	0.179	0.035
+FIT_data	ando	sennsyu	0.000	0.051	0.103	0.110	0.130	0.133	0.061
+FIT_data	ando	sennsyu	0.000	0.035	0.093	0.116	0.121	0.119	0.048
+FIT_data	ando	sennsyu	0.000	0.061	0.145	0.109	0.234	0.090	0.044
+FIT_data	ando	orinnpikku	0.000	0.250	0.101	0.307	0.119	0.339	0.323	0.234	0.153	0.140
+FIT_data	ando	orinnpikku	0.000	0.238	0.088	0.318	0.121	0.546	0.317	0.610	0.789	0.313
+FIT_data	ando	orinnpikku	0.000	0.262	0.115	0.395	0.159	0.421	0.227	0.289	0.164	0.171
+FIT_data	ando	orinnpikku	0.000	0.464	0.084	0.236	0.119	0.903	0.221	0.357	0.220	0.194
+FIT_data	ando	orinnpikku	0.000	0.508	0.039	0.471	0.154	0.591	0.356	0.339	0.207	0.341
+FIT_data	ando	kikai	0.000	0.264	0.356	0.149	0.089
+FIT_data	ando	kikai	0.000	0.242	0.268	0.123	0.335
+FIT_data	ando	kikai	0.000	0.195	0.208	0.129	0.142
+FIT_data	ando	kikai	0.000	0.179	0.224	0.102	0.295
+FIT_data	ando	kikai	0.000	0.205	0.269	0.115	0.166
+FIT_data	ando	kikai	0.000	0.202	0.235	0.085	0.266
+FIT_data	ando	kikai	0.000	0.204	0.354	0.134	0.204
+FIT_data	ando	kikai	0.000	0.211	0.245	0.099	0.206
+FIT_data	ando	kikai	0.000	0.220	0.371	0.108	0.181
+FIT_data	ando	kikai	0.000	0.174	0.238	0.089	0.285
+FIT_data	ando	matatonai	0.000	0.059	0.366	0.079	0.417	0.073	0.337	0.066	0.315
+FIT_data	ando	matatonai	0.000	0.097	0.366	0.046	0.341	0.096	0.291	0.059	0.212
+FIT_data	ando	matatonai	0.000	0.090	0.649	0.056	0.296	0.089	0.229	0.067	0.216
+FIT_data	ando	matatonai	0.000	0.070	0.393	0.320	0.334	0.053	0.224	0.058	0.157
+FIT_data	ando	matatonai	0.000	0.094	0.615	0.087	0.308	0.094	0.240	0.080	0.222
+FIT_data	ando	taisou	0.000	0.113	0.438	0.179	0.095	0.104
+FIT_data	ando	taisou	0.000	0.050	0.250	0.309	0.119	0.119
+FIT_data	ando	taisou	0.000	0.085	0.244	0.182	0.133	0.090
+FIT_data	ando	taisou	0.000	0.076	0.214	0.191	0.148	0.122
+FIT_data	ando	taisou	0.000	0.081	0.286	0.213	0.093	0.135
+FIT_data	ando	sennsyu	0.000	0.060	0.497	0.134	0.263	0.132	0.029
+FIT_data	ando	sennsyu	0.000	0.050	0.248	0.131	0.322	0.127	0.044
+FIT_data	ando	sennsyu	0.000	0.102	0.172	0.169	0.293	0.127	0.068
+FIT_data	ando	sennsyu	0.000	0.126	0.231	0.147	0.412	0.115	0.074
+FIT_data	ando	sennsyu	0.000	0.131	0.201	0.141	0.412	0.168	0.065
+FIT_data	ando	orinnpikku	0.000	0.195	0.077	0.195	0.121	0.210	0.227	0.253	0.140	0.092
+FIT_data	ando	orinnpikku	0.000	0.200	0.055	0.173	0.294	0.202	0.838	0.188	0.135	0.085
+FIT_data	ando	orinnpikku	0.000	0.153	0.079	0.161	0.100	0.342	0.221	0.176	0.127	0.111
+FIT_data	ando	orinnpikku	0.000	0.186	0.066	0.168	0.094	0.384	0.270	0.258	0.146	0.099
+FIT_data	ando	orinnpikku	0.000	0.409	0.059	0.190	0.094	0.691	0.410	0.256	0.137	0.178
+FIT_data	ando	orinnpikku	0.000	0.199	0.085	0.244	0.094	0.451	0.282	0.233	0.114	0.128
+FIT_data	ando	orinnpikku	0.000	0.186	0.055	0.168	0.116	0.214	0.205	0.203	0.141	0.098
+FIT_data	ando	kikai	0.000	0.199	0.182	0.070	0.089
+FIT_data	ando	kikai	0.000	0.140	0.156	0.063	0.105
+FIT_data	ando	kikai	0.000	0.160	0.158	0.075	0.089
+FIT_data	ando	kikai	0.000	0.173	0.169	0.096	0.079
+FIT_data	ando	kikai	0.000	0.171	0.192	0.517	0.189
+FIT_data	ando	kikai	0.000	0.182	0.169	0.116	0.077
+FIT_data	ando	kikai	0.000	0.186	0.227	0.134	0.114
+FIT_data	ando	kikai	0.000	0.218	0.441	0.064	0.166
+FIT_data	ando	kikai	0.000	0.151	0.170	0.080	0.091
+FIT_data	ando	kikai	0.000	0.178	0.204	0.120	0.061
+FIT_data	ando	kikai	0.000	0.159	0.231	0.116	0.124
+FIT_data	ando	matatonai	0.000	0.093	0.172	0.065	0.380	0.028	0.154	0.068	0.073
+FIT_data	ando	matatonai	0.000	0.095	0.146	0.074	0.267	0.065	0.205	0.079	0.124
+FIT_data	ando	matatonai	0.000	0.075	0.320	0.076	0.275	0.138	0.221	0.064	0.095
+FIT_data	ando	matatonai	0.000	0.091	0.338	0.043	0.436	0.050	1.181	0.065	0.112
+FIT_data	ando	matatonai	0.000	0.094	0.538	0.174	0.424	0.044	0.146	0.060	0.113
+FIT_data	ando	taisou	0.000	0.035	0.191	0.142	0.064	0.098
+FIT_data	ando	taisou	0.000	0.063	0.243	0.108	0.084	0.099
+FIT_data	ando	taisou	0.000	0.060	0.130	0.112	0.073	0.110
+FIT_data	ando	taisou	0.000	0.055	0.119	0.106	0.083	0.107
+FIT_data	ando	taisou	0.000	0.045	0.171	0.129	0.084	0.115
+FIT_data	ando	taisou	0.000	0.027	0.216	0.109	0.085	0.105
+FIT_data	ando	sennsyu	0.000	0.084	0.089	0.116	0.132	0.098	0.048
+FIT_data	ando	sennsyu	0.000	0.048	0.130	0.117	0.093	0.123	0.075
+FIT_data	ando	sennsyu	0.000	0.058	0.134	0.120	0.134	0.122	0.063
+FIT_data	ando	sennsyu	0.000	0.043	0.269	0.343	0.232	0.088	0.050
+FIT_data	ando	sennsyu	0.000	0.066	0.224	0.399	0.290	0.086	0.052
+FIT_data	kisitani	orinpikku	0.000	0.509	0.208	0.345	0.674	0.340	0.323	0.137	0.206
+FIT_data	kisitani	orinpikku	0.000	0.389	0.188	0.390	0.801	1.129	0.853	0.160	0.220
+FIT_data	kisitani	orinpikku	0.000	0.452	0.218	0.413	0.367	0.369	0.248	0.125	0.229
+FIT_data	kisitani	orinpikku	0.000	0.215	0.182	0.250	0.296	0.384	0.222	0.147	0.145
+FIT_data	kisitani	orinpikku	0.000	0.337	0.200	0.268	0.340	0.244	0.223	0.121	0.206
+FIT_data	kisitani	orinpikku	0.000	0.325	0.178	0.267	0.397	0.288	0.269	0.127	0.200
+FIT_data	kisitani	orinnpikku	0.000	0.339	0.194	0.635	0.154	0.259	0.299	0.290	0.129	0.279
+FIT_data	kisitani	orinnpikku	0.000	0.759	0.242	0.863	0.151	1.680	0.385	0.294	0.134	0.200
+FIT_data	kisitani	orinnpikku	0.000	0.333	0.187	0.308	0.148	0.342	0.293	0.237	0.124	0.161
+FIT_data	kisitani	orinnpikku	0.000	0.451	0.183	0.243	0.148	0.344	0.324	0.287	0.162	0.172
+FIT_data	kisitani	orinnpikku	0.000	0.188	0.277	0.274	0.151	0.566	0.362	0.273	0.115	0.199
+FIT_data	kisitani	kikai	0.000	0.171	0.391	0.145	0.239
+FIT_data	kisitani	kikai	0.000	0.201	0.521	0.159	0.171
+FIT_data	kisitani	kikai	0.000	0.183	0.190	0.117	0.283
+FIT_data	kisitani	kikai	0.000	0.195	0.230	0.136	0.165
+FIT_data	kisitani	kikai	0.000	0.488	0.539	0.138	0.140
+FIT_data	kisitani	kikai	0.000	0.169	0.202	0.148	0.183
+FIT_data	kisitani	kikai	0.000	0.196	0.227	0.144	0.129
+FIT_data	kisitani	kikai	0.000	0.197	0.212	0.137	0.162
+FIT_data	kisitani	kikai	0.000	0.213	0.251	0.125	0.123
+FIT_data	kisitani	kikai	0.000	0.179	0.212	0.130	0.176
+FIT_data	kisitani	kikai	0.000	0.195	0.231	0.140	0.130
+FIT_data	kisitani	kikai	0.000	0.169	0.211	0.125	0.147
+FIT_data	kisitani	kikai	0.000	0.198	0.236	0.116	0.142
+FIT_data	kisitani	matatonai	0.000	0.143	0.197	0.129	0.292	0.238	0.295	0.138	0.144
+FIT_data	kisitani	matatonai	0.000	0.147	0.328	0.129	0.400	0.208	0.342	0.112	0.136
+FIT_data	kisitani	matatonai	0.000	0.132	0.176	0.146	0.252	0.210	0.293	0.136	0.136
+FIT_data	kisitani	matatonai	0.000	0.116	0.282	0.133	0.335	0.459	0.232	0.154	0.182
+FIT_data	kisitani	matatonai	0.000	0.134	0.248	0.138	0.725	0.216	0.256	0.109	0.158
+FIT_data	kisitani	taisou	0.000	0.092	0.382	0.297	0.622	0.106
+FIT_data	kisitani	taisou	0.000	0.134	0.225	0.688	0.529	0.117
+FIT_data	kisitani	taisou	0.000	0.276	0.209	0.353	0.927	0.154
+FIT_data	kisitani	taisou	0.000	0.123	0.181	0.138	1.177	0.335
+FIT_data	kisitani	taisou	0.000	0.116	0.215	0.203	0.152	0.155
+FIT_data	kisitani	taisou	0.000	0.425	0.151	0.279	0.111	0.103
+FIT_data	kisitani	taisou	0.000	0.132	0.199	0.482	0.484	0.116
+FIT_data	kisitani	sensyu	0.000	0.116	0.251	0.272	0.226	0.059
+FIT_data	kisitani	sensyu	0.000	0.124	0.244	0.377	0.130	0.054
+FIT_data	kisitani	sensyu	0.000	0.080	0.237	0.227	0.245	0.062
+FIT_data	kisitani	sennsyu	0.000	0.125	0.250	0.167	0.309	0.193	0.059
+FIT_data	kisitani	sennsyu	0.000	0.132	0.216	0.135	0.135	0.395	0.073
+FIT_data	kisitani	orinpikku	0.000	0.813	0.325	0.552	0.771	0.251	0.248	0.124	0.188
+FIT_data	kisitani	orinpikku	0.000	0.246	0.215	0.393	0.299	0.302	0.244	0.126	0.190
+FIT_data	kisitani	orinpikku	0.000	0.251	0.131	0.280	0.306	0.244	0.238	0.115	0.166
+FIT_data	kisitani	orinpikku	0.000	0.213	0.190	0.240	0.342	0.252	0.223	0.125	0.174
+FIT_data	kisitani	orinpikku	0.000	0.243	0.192	0.417	0.405	0.722	0.250	0.123	0.179
+FIT_data	kisitani	orinpikku	0.000	0.299	0.190	0.264	0.580	0.300	0.435	0.140	0.206
+FIT_data	kisitani	orinnpikku	0.000	0.222	0.183	0.327	0.131	0.264	0.251	0.259	0.125	0.170
+FIT_data	kisitani	kikai	0.000	0.219	0.247	0.124	0.143
+FIT_data	kisitani	kikai	0.000	0.175	0.240	0.109	0.177
+FIT_data	kisitani	kikai	0.000	0.189	0.308	0.171	0.190
+FIT_data	kisitani	kikai	0.000	0.177	0.227	0.131	0.490
+FIT_data	kisitani	kikai	0.000	0.180	0.214	0.121	0.137
+FIT_data	kisitani	kikai	0.000	0.173	0.251	0.131	0.181
+FIT_data	kisitani	kikai	0.000	0.216	0.274	0.129	0.303
+FIT_data	kisitani	kikai	0.000	0.214	0.233	0.131	0.172
+FIT_data	kisitani	kikai	0.000	0.191	0.235	0.125	0.189
+FIT_data	kisitani	kikai	0.000	0.312	0.564	0.112	0.201
+FIT_data	kisitani	matatonai	0.000	0.126	0.217	0.111	0.323	0.185	0.308	0.135	0.130
+FIT_data	kisitani	matatonai	0.000	0.133	0.224	0.116	0.239	0.125	0.276	0.141	0.140
+FIT_data	kisitani	matatonai	0.000	0.167	0.204	0.157	0.342	0.151	0.294	0.134	0.141
+FIT_data	kisitani	matatonai	0.000	0.124	0.310	0.139	0.353	0.150	0.255	0.149	0.148
+FIT_data	kisitani	taisou	0.000	0.126	0.224	0.262	0.234	0.119
+FIT_data	kisitani	taisou	0.000	0.240	0.215	0.185	0.131	0.128
+FIT_data	kisitani	taisou	0.000	0.111	0.242	0.254	0.523	0.202
+FIT_data	kisitani	taisou	0.000	0.128	0.207	0.362	0.324	0.151
+FIT_data	kisitani	taisou	0.000	0.129	0.250	0.583	0.175	0.673
+FIT_data	kisitani	sensyu	0.000	0.104	0.282	0.195	0.214	0.065
+FIT_data	kisitani	sensyu	0.000	0.114	0.263	0.169	0.402	0.079
+FIT_data	kisitani	sensyu	0.000	0.110	0.372	0.193	0.195	0.051
+FIT_data	kisitani	sennsyu	0.000	0.098	0.316	0.124	0.348	0.169	0.063
+FIT_data	kisitani	sennsyu	0.000	0.103	0.307	0.128	0.116	0.205	0.044
+FIT_data	kisitani	sennsyu	0.000	0.108	0.240	0.124	0.126	0.174	0.055
+FIT_data	kisitani	orinpikku	0.000	0.478	0.391	0.449	0.621	0.431	0.716	0.447	0.346
+FIT_data	kisitani	orinpikku	0.000	0.735	0.277	0.410	0.561	0.852	0.561	0.401	0.483
+FIT_data	kisitani	orinpikku	0.000	0.411	0.227	0.774	0.677	0.396	0.464	0.183	0.456
+FIT_data	kisitani	orinpikku	0.000	0.477	0.266	0.917	0.989	0.395	0.366	0.142	0.459
+FIT_data	kisitani	orinpikku	0.000	0.718	0.345	1.025	0.522	0.398	0.494	0.196	0.382
+FIT_data	kisitani	orinpikku	0.000	0.525	0.255	0.815	0.471	0.411	0.353	0.155	0.343
+FIT_data	kisitani	orinpikku	0.000	0.460	0.432	0.515	0.593	0.592	0.612	0.257	0.594
+FIT_data	kisitani	kikai	0.000	0.404	0.596	0.499	0.547
+FIT_data	kisitani	kikai	0.000	0.326	0.380	0.580	0.516
+FIT_data	kisitani	kikai	0.000	0.351	0.342	0.488	0.463
+FIT_data	kisitani	kikai	0.000	0.318	0.282	0.368	0.291
+FIT_data	kisitani	kikai	0.000	0.310	0.279	0.290	0.239
+FIT_data	kisitani	kikai	0.000	0.324	0.593	0.529	0.470
+FIT_data	kisitani	kikai	0.000	0.323	0.385	0.351	0.386
+FIT_data	kisitani	kikai	0.000	0.278	0.413	0.308	0.286
+FIT_data	kisitani	kikai	0.000	0.311	0.304	0.372	0.374
+FIT_data	kisitani	kikai	0.000	0.386	0.350	0.473	0.627
+FIT_data	kisitani	kikai	0.000	0.350	0.351	0.373	0.476
+FIT_data	kisitani	matatonai	0.000	0.619	0.822	0.469	0.700	0.298	0.766	0.334	0.427
+FIT_data	kisitani	matatonai	0.000	0.421	0.534	0.467	0.788	0.476	0.432	0.377	0.680
+FIT_data	kisitani	matatonai	0.000	0.496	0.681	0.517	0.969	0.359	0.551	0.361	0.249
+FIT_data	kisitani	matatonai	0.000	0.443	0.526	0.502	1.003	0.271	0.327	0.347	0.272
+FIT_data	kisitani	matatonai	0.000	0.475	1.019	0.363	0.618	0.323	0.527	0.604	0.551
+FIT_data	kisitani	taisou	0.000	1.243	0.419	0.613	0.351	0.446
+FIT_data	kisitani	taisou	0.000	0.723	0.347	0.369	0.267	0.327
+FIT_data	kisitani	taisou	0.000	0.531	0.893	0.658	0.290	0.492
+FIT_data	kisitani	taisou	0.000	0.561	0.550	0.651	0.348	0.321
+FIT_data	kisitani	taisou	0.000	0.499	0.454	0.573	0.208	0.389
+FIT_data	kisitani	taisou	0.000	0.498	0.428	0.571	0.520	0.440
+FIT_data	kisitani	sensyu	0.000	0.432	0.367	0.432	0.294	0.246
+FIT_data	kisitani	sensyu	0.000	0.337	0.279	0.463	0.203	0.212
+FIT_data	kisitani	sensyu	0.000	0.453	1.020	0.710	0.274	0.277
+FIT_data	kisitani	sensyu	0.000	0.390	0.300	0.399	0.257	0.324
+FIT_data	kisitani	sensyu	0.000	0.363	0.308	0.810	0.365	0.605
+FIT_data	kisitani	sensyu	0.000	0.494	0.784	0.556	0.478	0.334
+FIT_data	kisitani	orinpikku	0.000	0.285	0.174	0.268	0.482	0.385	0.235	0.135	0.173
+FIT_data	kisitani	orinpikku	0.000	0.431	0.147	0.233	0.277	0.291	0.331	0.198	0.302
+FIT_data	kisitani	orinpikku	0.000	0.264	0.194	0.268	0.440	0.260	0.259	0.147	0.176
+FIT_data	kisitani	orinpikku	0.000	0.272	0.173	0.280	0.329	0.304	0.267	0.144	0.208
+FIT_data	kisitani	orinpikku	0.000	0.399	0.191	0.273	0.307	1.213	0.277	0.158	0.201
+FIT_data	kisitani	orinpikku	0.000	0.235	0.194	0.291	0.421	0.469	0.258	0.154	0.206
+FIT_data	kisitani	kikai	0.000	0.195	0.204	0.121	0.138
+FIT_data	kisitani	kikai	0.000	0.176	0.184	0.104	0.157
+FIT_data	kisitani	kikai	0.000	0.200	0.350	0.178	0.185
+FIT_data	kisitani	kikai	0.000	0.215	0.218	0.147	0.143
+FIT_data	kisitani	kikai	0.000	0.232	0.238	0.140	0.152
+FIT_data	kisitani	kikai	0.000	0.175	0.229	0.133	0.143
+FIT_data	kisitani	kikai	0.000	0.206	0.232	0.163	0.128
+FIT_data	kisitani	kikai	0.000	0.227	0.330	0.209	0.263
+FIT_data	kisitani	kikai	0.000	0.242	0.340	0.166	0.141
+FIT_data	kisitani	kikai	0.000	0.198	0.233	0.150	0.156
+FIT_data	kisitani	kikai	0.000	0.227	0.220	0.134	0.131
+FIT_data	kisitani	matatonai	0.000	0.104	0.230	0.133	0.238	0.133	0.496	0.147	0.144
+FIT_data	kisitani	matatonai	0.000	0.159	0.233	0.376	0.342	0.205	0.361	0.162	0.136
+FIT_data	kisitani	matatonai	0.000	0.176	0.217	0.132	0.254	0.200	0.291	0.151	0.142
+FIT_data	kisitani	matatonai	0.000	0.172	0.661	0.156	0.427	0.177	0.286	0.136	0.141
+FIT_data	kisitani	matatonai	0.000	0.152	0.271	0.140	0.366	0.223	0.270	0.142	0.139
+FIT_data	kisitani	taisou	0.000	0.124	0.181	0.138	0.702	0.183
+FIT_data	kisitani	taisou	0.000	0.136	0.211	0.032	1.691	0.262
+FIT_data	kisitani	taisou	0.000	0.124	0.230	1.071	0.183	0.186
+FIT_data	kisitani	taisou	0.000	0.208	0.633	0.342	0.228	0.185
+FIT_data	kisitani	taisou	0.000	0.142	0.288	0.750	0.190	0.141
+FIT_data	kisitani	sensyu	0.000	0.103	0.608	0.312	0.258	0.067
+FIT_data	kisitani	sensyu	0.000	0.099	0.320	0.196	0.219	0.082
+FIT_data	kisitani	sensyu	0.000	0.101	0.400	0.355	0.187	0.064
+FIT_data	kisitani	sensyu	0.000	0.123	0.382	0.214	0.180	0.065
+FIT_data	kisitani	sensyu	0.000	0.114	0.553	0.331	0.218	0.073

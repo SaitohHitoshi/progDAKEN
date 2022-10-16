@@ -1,0 +1,1 @@
+cat out2.txt | tr "\\t" "," > out2.csv
