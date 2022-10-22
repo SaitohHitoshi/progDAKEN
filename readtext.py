@@ -37,7 +37,7 @@ def getEnterandSpace_result(file_path):
 
 def recursive_file_check(path):
     if os.path.isdir(path):
-        #directoryだったら中野ファイルに対して再帰的にこの関数を実行
+        #directoryだったら中のファイルに対して再帰的にこの関数を実行
         files=os.listdir(path)
         for file in files:
             recursive_file_check(path+"/"+file)
