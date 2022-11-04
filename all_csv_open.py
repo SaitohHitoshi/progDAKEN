@@ -1,7 +1,11 @@
 import pandas as pd
 import os
 import csv
-import statistics as stat# 標本分散の計算に利用
+import matplotlib.pyplot as plt
+from scipy import stats
+import itertools
+#import statistics as stat# 標本分散の計算に利用
+from statistics import variance,mean
 ROOT_PATH="./FIT_data_copy"
 CSV_PATH="./FIT_data_copy/average_variance.csv"
 #csv_filepath="./FIT_data_copy/okada/fast/20220616_140737_exam.utf8.Complete.csv"
@@ -225,7 +229,7 @@ def df_get_keystroke_orinnpikku(df_keystroke_line):
     #     print("-------------------")
     return(df_keystrokes_line_list)
 
-##
+##DtoDでキーストロークの差を計算する関数
 def get_DtoD_diff(df_orinpikku):
     diff_lines=[]
     for line in df_orinpikku:
@@ -267,6 +271,7 @@ def get_one_keystroke_lists(diff_lines):
         one_keystroke_lists.append(one_keystroke_list)
     return(one_keystroke_lists)
 
+##分散を計算する関数
 def get_variance(diff_lines):
     len_list=len(diff_lines)
     # print(len_list)
@@ -293,6 +298,7 @@ def get_variance(diff_lines):
     average_variance=sum_variance/(count_line_number-1)
     return(sum_variance/(count_line_number-1))
 
+##被験者の名前と打鍵スピードを取得する関数
 def get_nameAndspeed(df):
     # print(df.iat[1,0])
     name=df.iat[1,0]
@@ -300,6 +306,7 @@ def get_nameAndspeed(df):
     speed=df.iat[1,1]
     return(name,speed)
 
+##分散を計算した結果をCSVに書き込む関数
 def write_average_variance_csv(name,speed,average_variance):
     with open(CSV_PATH,'a') as f:
         writer=csv.writer(f)
@@ -307,6 +314,66 @@ def write_average_variance_csv(name,speed,average_variance):
         print("書き込み完了")
         f.close()
 
+##正規分布してるか確認がしたい関数
+def t_test(one_keystroke_lists):
+    list_shapiro=[]
+    for one_keystroke_list in one_keystroke_lists:
+        # print(mean(one_keystroke_list))
+        # plt.hist(one_keystroke_list,bins=10,range=(0,0.2))
+        #plt.show()
+        p=stats.shapiro(one_keystroke_list)[1]
+        list_shapiro.append(p)
+    return(list_shapiro)
+
+##Welch_t_testがしたい関数
+def Welch_t_test(one_keystroke_lists):
+    # list_shapiro=t_test(one_keystroke_lists)
+    Appropriate_one_keystroke_lists=[]
+    list_shapiro_Appropriate_index=[]
+    i=1
+    for one_keystroke_list in one_keystroke_lists:
+        p=stats.shapiro(one_keystroke_list)[1]
+        i=str(i)
+        i=i.zfill(2)
+        if(p<=0.05):
+            print(i+":正規分布である:"+str(p))
+            Appropriate_one_keystroke_lists.append(one_keystroke_list)
+        else:
+            print(i+":正規分布ではない:"+str(p))
+        i=int(i)
+        i=i+1
+    # for p in list_shapiro:
+    #     i=str(i)
+    #     i=i.zfill(2)
+    #     if(p<=0.05):
+    #         print(i+":正規分布である:"+str(p))
+    #         Appropriate_one_keystroke_lists.append()
+    #     else:
+    #         print(i+":正規分布ではない:"+str(p))
+    #     i=int(i)
+    #     i=i+1
+    i=0
+    for line in Appropriate_one_keystroke_lists:
+        # print(i)
+        # print(line)
+        # print("-------------")
+        list_shapiro_Appropriate_index.append(i)
+        i=i+1
+    print(list_shapiro_Appropriate_index)
+    for pair in itertools.combinations(list_shapiro_Appropriate_index, 2):
+        print(pair[0])
+        print(pair[1])
+        print(Appropriate_one_keystroke_lists[pair[0]])
+        print(Appropriate_one_keystroke_lists[pair[0]])
+        welch=stats.ttest_ind(Appropriate_one_keystroke_lists[pair[0]],Appropriate_one_keystroke_lists[pair[0]], equal_var=False)
+        print(welch[1])
+        if(welch[1]<0.05):
+            print("2つの標本平均に差がないとは言えない:"+str(welch))
+        else:
+            print("2つの標本平均に差がない"+str(welch))
+        print("-------------")
+    
+##分散を計算するmain関数的な奴
 def to_df_of_lines(path):
     ##csvを読み込みdfに変換
     df=get_df(path)
@@ -346,19 +413,18 @@ def get_average_variance():
         f.close()
     recursive_file_check_get_average_variance(ROOT_PATH)
 
-
-def get_FAR_FRR():
+def get_welch():
     ##csvを読み込みdfに変換
     df=get_df(csv_filepath)
-    print(df)
+    # print(df)
     ##dfの中から名前と打鍵スピードを取得
     nameAndspeed=get_nameAndspeed(df)
     name=nameAndspeed[0]
     speed=nameAndspeed[1]
-    print(name,speed)
+    # print(name,speed)
     ##dfの中にあるtimeをhh:mm:ss.msからss.msに変換し代入
     strTime_to_floatSeconds(df)
-    print(df)
+    # print(df)
     ##キーを押した時の時間をリストに入れて返す変数
     df_keystroke_line=get_DtoD_keystroke(df)
     #print(df_keystroke_line[0])
@@ -369,16 +435,51 @@ def get_FAR_FRR():
     ##キーストロークの差分を計算
     diff_lines=get_DtoD_diff(df_orinpikku)
     count_orinpikku=0
-    for line in diff_lines:
-        print(line)
-        count_orinpikku=count_orinpikku+1
-    print(count_orinpikku)
-    print("------------")
+    # for line in diff_lines:
+    #     print(line)
+    #     count_orinpikku=count_orinpikku+1
+    # print(count_orinpikku)
+    # print("------------")
     ##各キーのキーストロークをリストにして返す関数
     one_keystroke_lists=get_one_keystroke_lists(diff_lines)
-    for line in one_keystroke_lists:
-        print(line)
-    print("------------")
+    # for line in one_keystroke_lists:
+    #     print(line)
+    # print("------------")
+    Welch_t_test(one_keystroke_lists)
 
-get_average_variance()
-#main_get_FAR_FRR()
+def get_FAR_FRR():
+    ##csvを読み込みdfに変換
+    df=get_df(csv_filepath)
+    # print(df)
+    ##dfの中から名前と打鍵スピードを取得
+    nameAndspeed=get_nameAndspeed(df)
+    name=nameAndspeed[0]
+    speed=nameAndspeed[1]
+    # print(name,speed)
+    ##dfの中にあるtimeをhh:mm:ss.msからss.msに変換し代入
+    strTime_to_floatSeconds(df)
+    # print(df)
+    ##キーを押した時の時間をリストに入れて返す変数
+    df_keystroke_line=get_DtoD_keystroke(df)
+    #print(df_keystroke_line[0])
+    ##get_DtoD_keystroke(df)で得られたリストの中から文字列orinnpikkuを取得
+    get_line_orinnpikku(df_keystroke_line)
+    ##get_DtoD_keystroke(df)で得られたリストの中から文字列orinnpikkuを取得しtime,operation,keyをlistに格納し返す
+    df_orinpikku=df_get_keystroke_orinnpikku(df_keystroke_line)
+    ##キーストロークの差分を計算
+    diff_lines=get_DtoD_diff(df_orinpikku)
+    count_orinpikku=0
+    # for line in diff_lines:
+    #     print(line)
+    #     count_orinpikku=count_orinpikku+1
+    # print(count_orinpikku)
+    # print("------------")
+    ##各キーのキーストロークをリストにして返す関数
+    one_keystroke_lists=get_one_keystroke_lists(diff_lines)
+    # for line in one_keystroke_lists:
+    #     print(line)
+    # print("------------")
+
+#get_average_variance()
+#get_FAR_FRR()
+get_welch()
