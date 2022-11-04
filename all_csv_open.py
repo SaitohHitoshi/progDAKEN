@@ -123,6 +123,7 @@ def get_DtoD_keystroke(df):
             # print("---------------------")
     return(line_keystrokeData)
 
+##オリンピックと入力されているか確認する関数
 def get_line_orinnpikku(df_keystroke_line):
     orinpikkuList=[]
     str1="orinnpikku"
@@ -143,7 +144,8 @@ def get_line_orinnpikku(df_keystroke_line):
             else:
                 str=""
     #print(orinpikkuList)
-    
+
+##オリンピックと入力されているキーストロークを取得し，dfに変換して返す関数
 def df_get_keystroke_orinnpikku(df_keystroke_line):
     orinpikkuList=[]
     keystrokes_line_list=[]
@@ -223,6 +225,7 @@ def df_get_keystroke_orinnpikku(df_keystroke_line):
     #     print("-------------------")
     return(df_keystrokes_line_list)
 
+##
 def get_DtoD_diff(df_orinpikku):
     diff_lines=[]
     for line in df_orinpikku:
@@ -342,7 +345,6 @@ def get_average_variance():
     with open(CSV_PATH,'w') as f:
         f.close()
     recursive_file_check_get_average_variance(ROOT_PATH)
-
 
 
 def get_FAR_FRR():
