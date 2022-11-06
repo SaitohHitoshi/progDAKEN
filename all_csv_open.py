@@ -4,6 +4,7 @@ import csv
 import matplotlib.pyplot as plt
 from scipy import stats
 import itertools
+import math
 #import statistics as stat# 標本分散の計算に利用
 from statistics import variance,mean
 ROOT_PATH="./FIT_data_copy"
@@ -361,11 +362,11 @@ def Welch_t_test(one_keystroke_lists):
         i=i+1
     print(list_shapiro_Appropriate_index)
     for pair in itertools.combinations(list_shapiro_Appropriate_index, 2):
-        print(pair[0])
-        print(pair[1])
-        print(Appropriate_one_keystroke_lists[pair[0]])
-        print(Appropriate_one_keystroke_lists[pair[0]])
-        welch=stats.ttest_ind(Appropriate_one_keystroke_lists[pair[0]],Appropriate_one_keystroke_lists[pair[0]], equal_var=False)
+        # print(pair[0])
+        # print(pair[1])
+        # print(Appropriate_one_keystroke_lists[pair[0]])
+        # print(Appropriate_one_keystroke_lists[pair[1]])
+        welch=stats.ttest_ind(Appropriate_one_keystroke_lists[pair[0]],Appropriate_one_keystroke_lists[pair[1]], equal_var=False)
         print(welch[1])
         if(welch[1]<0.05):
             print("2つの標本平均に差がないとは言えない:"+str(welch))
@@ -447,6 +448,122 @@ def get_welch():
     # print("------------")
     Welch_t_test(one_keystroke_lists)
 
+def split_list(one_keystroke_lists):
+    len_one_keystroke_lists=len(one_keystroke_lists[0])
+    #print(len_one_keystroke_lists)
+    split_list_number=int(len_one_keystroke_lists/3)
+    #print(int(len_one_keystroke_lists/3))
+    learning=[]
+    inspection=[]
+    measure=[]
+    #n = 5
+    for one_keystroke_list in one_keystroke_lists:
+        leng_number=0
+        tmp_learning=[]
+        for i in range(0, len(one_keystroke_list), split_list_number):
+            # print(one_keystroke_list[i: i+split_list_number])
+            if(leng_number==0):
+                measure.append(one_keystroke_list[i: i+split_list_number])
+            elif(leng_number==1):
+                inspection.append(one_keystroke_list[i: i+split_list_number])
+            elif(leng_number==2):
+                tmp_learning.extend(one_keystroke_list[i: i+split_list_number])
+            elif(leng_number==3):
+                tmp_learning.extend(one_keystroke_list[i: i+split_list_number])
+            leng_number=leng_number+1
+            # print("-----")
+        #print("--------------------------")
+        learning.append(tmp_learning)
+    # print(learning)
+    # print("-----")
+    # print(measure)
+    # print("-----")
+    # print(inspection)
+    # print("-----")
+    return(learning,measure,inspection)
+
+def average_keystroke(learning):
+    average_learning=[]
+    for line in learning:
+        #print(mean(line))
+        average_learning.append(mean(line))
+        #print(mean(line))
+    return(average_learning)
+
+def measure_keystroke(average_learning,measure):
+    i=0
+    measure_deff=[]
+    measure_Euclid_list=[]
+    for line in measure:
+        deff_measure=[]
+        for one in line:
+            ##二乗して数値をプラスにしたもの
+            deff_measure.extend([math.sqrt((average_learning[i]-one)*(average_learning[i]-one))])
+            #print((average_learning[i]-one)*(average_learning[i]-one))
+        measure_deff.append(deff_measure)
+        i=i+1
+    line_len=len(measure_deff[0])
+    for i in range(line_len):
+        tmp_measure=[]
+        for line in measure_deff:
+            # print(line[i])
+            tmp_measure.extend([line[i]])
+        measure_Euclid=math.sqrt(sum(tmp_measure))
+        measure_Euclid_list.extend([measure_Euclid])
+    # print(measure_Euclid_list)
+    Euclid_average=mean(measure_Euclid_list)
+    E_def_E_Avg_Absolute_value=[]
+    for one in measure_Euclid_list:
+        # print(math.sqrt((one-Euclid_average)*(one-Euclid_average)))
+        E_def_E_Avg_Absolute_value.extend([math.sqrt((one-Euclid_average)*(one-Euclid_average))])
+    # print(E_def_E_Avg_Absolute_value)
+    Avg_E_def_E_Avg_Absolute_value=mean(E_def_E_Avg_Absolute_value)
+    # print("----------")
+    # print(Avg_E_def_E_Avg_Absolute_value)
+    return(Avg_E_def_E_Avg_Absolute_value)
+
+def inspection_keystroke(average_learning,inspection,Avg_E_def_E_Avg_Absolute_value):
+    i=0
+    inspection_deff=[]
+    inspection_deff_list=[]
+    inspection_Euclid_list=[]
+    for line in inspection:
+        # print(line)
+        # print(average_learning[i])
+        # print("---------------")
+        deff_inspection=[]
+        for one in line:
+            #print(one)
+            #print(math.sqrt((average_learning[i]-one)*(average_learning[i]-one)))
+            ##二乗して数値を絶対値にしたもの
+            deff_inspection.extend([math.sqrt((average_learning[i]-one)*(average_learning[i]-one))])
+            #print("-----")
+            #print((average_learning[i]-one)*(average_learning[i]-one))
+        inspection_deff.append(deff_inspection)
+        i=i+1
+    # for line in inspection_deff:
+    #     print(line)
+    #     print("-----")
+    line_len=len(inspection_deff[0])
+    #print(line_len)
+    for i in range(line_len):
+        tmp_inspection=[]
+        for line in inspection_deff:
+            #print(line[i])
+            tmp_inspection.extend([line[i]])
+        inspection_deff_list.append(tmp_inspection)
+        inspection_Euclid=math.sqrt(sum(tmp_inspection))
+        inspection_Euclid_list.extend([inspection_Euclid])
+    print("-------")
+    # for line in inspection_deff_list:
+    #     print(line)
+    #     print("-----")
+    #average_learning-inspection_deff_listの処理を書く
+    print(average_learning)
+    
+
+    
+
 def get_FAR_FRR():
     ##csvを読み込みdfに変換
     df=get_df(csv_filepath)
@@ -479,7 +596,17 @@ def get_FAR_FRR():
     # for line in one_keystroke_lists:
     #     print(line)
     # print("------------")
+    split_text=split_list(one_keystroke_lists)
+    learning=split_text[0]
+    measure=split_text[1]
+    inspection=split_text[2]
+    average_learning=average_keystroke(learning)
+    # print(average_learning)
+    Avg_E_def_E_Avg_Absolute_value=measure_keystroke(average_learning,measure)
+    inspection_keystroke(average_learning,inspection,Avg_E_def_E_Avg_Absolute_value)
+
+
 
 #get_average_variance()
-#get_FAR_FRR()
-get_welch()
+get_FAR_FRR()
+#get_welch()
