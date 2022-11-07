@@ -609,7 +609,7 @@ def write_get_CSV_PATH_inspection_csv(name,speed,inspection):
     with open(CSV_PATH_inspection,'a') as f:
         writer=csv.writer(f)
         len_inspection=len(inspection[0])
-        # print(len_inspection)
+        #print(len_inspection)
         for i in range(len_inspection):
             write_list=[name,speed]
             for line in inspection:
