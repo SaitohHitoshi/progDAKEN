@@ -7,10 +7,17 @@ import itertools
 import math
 #import statistics as stat# 標本分散の計算に利用
 from statistics import variance,mean
+import statistics
 ROOT_PATH="./FIT_data_copy"
 CSV_PATH="./FIT_data_copy/average_variance.csv"
-#csv_filepath="./FIT_data_copy/okada/fast/20220616_140737_exam.utf8.Complete.csv"
+CSV_PATH_get_FAR_FRR="./FIT_data_copy/FAR_FRR.csv"
+CSV_PATH_inspection="./FIT_data_copy/inspection.csv"
+
 csv_filepath="./FIT_data_copy/okada/fast/20220616_140737_exam.utf8.Complete.csv"
+csv_filepath2="./FIT_data_copy/okada/normal/20220616_135928_exam.utf8.Complete.csv"
+csv_filepath3="./FIT_data_copy/okada/slow/20220616_135047_exam.utf8.Complete.csv"
+csv_filepath4="./FIT_data_copy/kasahara/slow/20220615_185529_exam.utf8.Complete.csv"
+csv_filepath5="./FIT_data_copy/ando/fast/20220614_16373_exam.utf8.Complete.csv"
 
 def recursive_file_check_get_average_variance(path):
     if os.path.isdir(path):
@@ -463,11 +470,11 @@ def split_list(one_keystroke_lists):
         for i in range(0, len(one_keystroke_list), split_list_number):
             # print(one_keystroke_list[i: i+split_list_number])
             if(leng_number==0):
-                measure.append(one_keystroke_list[i: i+split_list_number])
+                tmp_learning.extend(one_keystroke_list[i: i+split_list_number])
             elif(leng_number==1):
                 inspection.append(one_keystroke_list[i: i+split_list_number])
             elif(leng_number==2):
-                tmp_learning.extend(one_keystroke_list[i: i+split_list_number])
+                measure.append(one_keystroke_list[i: i+split_list_number])
             elif(leng_number==3):
                 tmp_learning.extend(one_keystroke_list[i: i+split_list_number])
             leng_number=leng_number+1
@@ -498,7 +505,7 @@ def measure_keystroke(average_learning,measure):
         deff_measure=[]
         for one in line:
             ##二乗して数値をプラスにしたもの
-            deff_measure.extend([math.sqrt((average_learning[i]-one)*(average_learning[i]-one))])
+            deff_measure.extend([(average_learning[i]-one)*(average_learning[i]-one)])
             #print((average_learning[i]-one)*(average_learning[i]-one))
         measure_deff.append(deff_measure)
         i=i+1
@@ -508,25 +515,30 @@ def measure_keystroke(average_learning,measure):
         for line in measure_deff:
             # print(line[i])
             tmp_measure.extend([line[i]])
+        # print(tmp_measure)
+        # print("----------")
         measure_Euclid=math.sqrt(sum(tmp_measure))
         measure_Euclid_list.extend([measure_Euclid])
-    # print(measure_Euclid_list)
+    #print(measure_Euclid_list)
     Euclid_average=mean(measure_Euclid_list)
+    # print("Euclid_average"+str(Euclid_average))
     E_def_E_Avg_Absolute_value=[]
     for one in measure_Euclid_list:
         # print(math.sqrt((one-Euclid_average)*(one-Euclid_average)))
         E_def_E_Avg_Absolute_value.extend([math.sqrt((one-Euclid_average)*(one-Euclid_average))])
     # print(E_def_E_Avg_Absolute_value)
     Avg_E_def_E_Avg_Absolute_value=mean(E_def_E_Avg_Absolute_value)
+    print("Avg_E_def_E_Avg_Absolute_value:"+str(Avg_E_def_E_Avg_Absolute_value))
     # print("----------")
     # print(Avg_E_def_E_Avg_Absolute_value)
-    return(Avg_E_def_E_Avg_Absolute_value)
+    return(Avg_E_def_E_Avg_Absolute_value,Euclid_average)
 
-def inspection_keystroke(average_learning,inspection,Avg_E_def_E_Avg_Absolute_value):
+def inspection_keystroke(average_learning,inspection,Avg_E_def_E_Avg_Absolute_value,Euclid_average):
     i=0
     inspection_deff=[]
     inspection_deff_list=[]
     inspection_Euclid_list=[]
+    inspection_E_def_E_Avg_Absolute_value_list=[]
     for line in inspection:
         # print(line)
         # print(average_learning[i])
@@ -536,7 +548,7 @@ def inspection_keystroke(average_learning,inspection,Avg_E_def_E_Avg_Absolute_va
             #print(one)
             #print(math.sqrt((average_learning[i]-one)*(average_learning[i]-one)))
             ##二乗して数値を絶対値にしたもの
-            deff_inspection.extend([math.sqrt((average_learning[i]-one)*(average_learning[i]-one))])
+            deff_inspection.extend([(average_learning[i]-one)*(average_learning[i]-one)])
             #print("-----")
             #print((average_learning[i]-one)*(average_learning[i]-one))
         inspection_deff.append(deff_inspection)
@@ -554,19 +566,62 @@ def inspection_keystroke(average_learning,inspection,Avg_E_def_E_Avg_Absolute_va
         inspection_deff_list.append(tmp_inspection)
         inspection_Euclid=math.sqrt(sum(tmp_inspection))
         inspection_Euclid_list.extend([inspection_Euclid])
-    print("-------")
-    # for line in inspection_deff_list:
-    #     print(line)
-    #     print("-----")
+    # print("-------")
+    for line in inspection_Euclid_list:
+        #print(math.sqrt((line-Euclid_average)*(line-Euclid_average)))
+        inspection_E_def_E_Avg_Absolute_value_list.extend([math.sqrt((line-Euclid_average)*(line-Euclid_average))])
+        #print("-----")
     #average_learning-inspection_deff_listの処理を書く
-    print(average_learning)
-    
+    print("inspection_E_def_E_Avg_Absolute_value_list:"+str(inspection_E_def_E_Avg_Absolute_value_list))
+    # print("Avg_E_def_E_Avg_Absolute_value:"+str(Avg_E_def_E_Avg_Absolute_value))
+    inspection_succsess_number_of_times=0
+    inspection_number_of_times=0
+    print("----")
+    for line in inspection_E_def_E_Avg_Absolute_value_list:
+        if(line<=Avg_E_def_E_Avg_Absolute_value):
+            print("succsess!!")
+            inspection_succsess_number_of_times=inspection_succsess_number_of_times+1
+            inspection_number_of_times=inspection_number_of_times+1
+        else:
+            print("fail")
+            inspection_number_of_times=inspection_number_of_times+1
+    succsess_rate=(inspection_succsess_number_of_times/inspection_number_of_times)*100
+    print("succsess_rate:"+str(succsess_rate)+"%")
+    print("----")
+    # print("------------------------------")
+    # print("average_learning:"+str(average_learning))
+    # print("Euclid_average:"+str(Euclid_average))
+    len_inspection=len(inspection[0])
+    # print("len_inspection:"+str(len_inspection))
+    return(len_inspection,inspection_succsess_number_of_times,succsess_rate)
 
-    
 
-def get_FAR_FRR():
+def write_get_FAR_FRR_csv(name,speed,Avg_E_def_E_Avg_Absolute_value,Euclid_average,average_learning):
+    with open(CSV_PATH_get_FAR_FRR,'a') as f:
+        writer=csv.writer(f)
+        write_list=[name,speed,Avg_E_def_E_Avg_Absolute_value,Euclid_average]
+        write_list.extend(average_learning)
+        writer.writerow(write_list)
+        print("FAR_FRR_csv書き込み完了")
+        f.close()
+
+def write_get_CSV_PATH_inspection_csv(name,speed,inspection):
+    with open(CSV_PATH_inspection,'a') as f:
+        writer=csv.writer(f)
+        len_inspection=len(inspection[0])
+        # print(len_inspection)
+        for i in range(len_inspection):
+            write_list=[name,speed]
+            for line in inspection:
+                #print(line)
+                write_list.extend([line[i]])
+            writer.writerow(write_list)
+        print("inspection_csv書き込み完了")
+        f.close()
+
+def get_FAR_FRR(path):
     ##csvを読み込みdfに変換
-    df=get_df(csv_filepath)
+    df=get_df(path)
     # print(df)
     ##dfの中から名前と打鍵スピードを取得
     nameAndspeed=get_nameAndspeed(df)
@@ -600,13 +655,42 @@ def get_FAR_FRR():
     learning=split_text[0]
     measure=split_text[1]
     inspection=split_text[2]
+    # for line in inspection:
+    #     print(line)
+    # print("------------")
     average_learning=average_keystroke(learning)
     # print(average_learning)
     Avg_E_def_E_Avg_Absolute_value=measure_keystroke(average_learning,measure)
-    inspection_keystroke(average_learning,inspection,Avg_E_def_E_Avg_Absolute_value)
+    Euclid_average=Avg_E_def_E_Avg_Absolute_value[1]
+    Avg_E_def_E_Avg_Absolute_value=Avg_E_def_E_Avg_Absolute_value[0]
+    inspection_keystroke_return=inspection_keystroke(average_learning,inspection,Avg_E_def_E_Avg_Absolute_value,Euclid_average)
+    len_inspection=inspection_keystroke_return[0]
+    inspection_succsess_number_of_times=inspection_keystroke_return[1]
+    succsess_rate=inspection_keystroke_return[2]
+    write_get_CSV_PATH_inspection_csv(name,speed,inspection)
+    write_get_FAR_FRR_csv(name,speed,Avg_E_def_E_Avg_Absolute_value,Euclid_average,average_learning)
+    print("------------------------")
 
+def recursive_file_check_get_FAR_FRR(path):
+    if os.path.isdir(path):
+        #directoryだったら中のファイルに対して再帰的にこの関数を実行
+        files=os.listdir(path)
+        for file in files:
+            recursive_file_check_get_FAR_FRR(path+"/"+file)
+    else:
+        #exam.utf8.Complete.csvだったら処理を実行
+        if path[-22:]=='exam.utf8.Complete.csv':
+            print(path)
+            get_FAR_FRR(path)
 
+def main_get_FAR_FRR():
+    with open(CSV_PATH_inspection,'w') as f:
+        f.close()
+    with open(CSV_PATH_get_FAR_FRR,'w') as f:
+        f.close()
+    recursive_file_check_get_FAR_FRR(ROOT_PATH)
 
 #get_average_variance()
-get_FAR_FRR()
+#get_FAR_FRR()
 #get_welch()
+main_get_FAR_FRR()
