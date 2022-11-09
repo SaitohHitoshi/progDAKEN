@@ -597,7 +597,7 @@ def inspection_keystroke(average_learning,inspection,Avg_E_def_E_Avg_Absolute_va
 
 
 def write_get_FAR_FRR_csv(name,speed,Avg_E_def_E_Avg_Absolute_value,Euclid_average,average_learning):
-    with open(CSV_PATH_get_FAR_FRR,'a') as f:
+    with open(CSV_PATH_get_FAR_FRR,'a',encoding='utf-8') as f:
         writer=csv.writer(f)
         write_list=[name,speed,Avg_E_def_E_Avg_Absolute_value,Euclid_average]
         write_list.extend(average_learning)
@@ -606,7 +606,7 @@ def write_get_FAR_FRR_csv(name,speed,Avg_E_def_E_Avg_Absolute_value,Euclid_avera
         f.close()
 
 def write_get_CSV_PATH_inspection_csv(name,speed,inspection):
-    with open(CSV_PATH_inspection,'a') as f:
+    with open(CSV_PATH_inspection,'a',encoding='utf-8') as f:
         writer=csv.writer(f)
         len_inspection=len(inspection[0])
         #print(len_inspection)
@@ -690,7 +690,8 @@ def main_get_FAR_FRR():
         f.close()
     recursive_file_check_get_FAR_FRR(ROOT_PATH)
 
+
 #get_average_variance()
 #get_FAR_FRR()
-get_welch()
-#main_get_FAR_FRR()
+#get_welch()
+main_get_FAR_FRR()
