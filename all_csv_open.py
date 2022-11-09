@@ -692,5 +692,5 @@ def main_get_FAR_FRR():
 
 #get_average_variance()
 #get_FAR_FRR()
-#get_welch()
-main_get_FAR_FRR()
+get_welch()
+#main_get_FAR_FRR()
