@@ -34,7 +34,7 @@ def get_FAR():
         #print(np_average_keystroke)
         #print("authentication_distance : "+str(authentication_distance))
         initialize_csv(ave_name,ave_speed)
-        for threshhold in np.arange(0,authentication_distance*15,0.005):
+        for threshhold in np.arange(0,authentication_distance*60,0.005):
             print(ave_name,ave_speed)
             result=[]
             for index,data in df_inspection.iterrows():
