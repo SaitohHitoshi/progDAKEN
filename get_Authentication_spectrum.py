@@ -1,6 +1,7 @@
 import pandas as pd
 import os
 import csv
+import copy
 average_spectrum_path="./spectrum_copy/average_spectrum.csv"
 measure_supectrum_path="./spectrum_copy/measure_supectrum.csv"
 ROOT_PATH='./spectrum_copy'
@@ -9,10 +10,11 @@ txt_file = "./spectrum_copy/hasimoto/keizokuninnsyou/spectrum1.txt"
 def initialize_measure_supectrum_csv(names_list):
     f = open(measure_supectrum_path, 'w')
     writer = csv.writer(f)
-    initialize_names_list=names_list
+    initialize_names_list=copy.copy(names_list)
     initialize_names_list.insert(0,"keystrokestring")
     initialize_names_list.insert(0,"name")
-    writer.writerow(names_list)
+    writer.writerow(initialize_names_list)
+    #print(initialize_names_list)
     f.close()
 
 def recursive_file_check_get_csv(path,names_list):
@@ -107,24 +109,29 @@ def write_csv_measure(measure,fnames):
     f = open(write_path,'a')
     writer = csv.writer(f)
     for line in measure:
-        writer.writerow(line)
+        def_line=copy.copy(line)
+        def_line.insert(0,keystrokestring)
+        def_line.insert(0,name)
+        writer.writerow(def_line)
     f.close()
 
 def get_csv(path,names_list):
     fnames=get_name_and_keystrokestring(path)
     write_path='./'+fnames[0]+'/'+fnames[1]+'/'+fnames[2]
-    print(path)
-    print(names_list)
+    #print(path)
+    #print(names_list)
     learning=[]
     inspection=[]
     measure=[]
     df_csv= pd.read_csv(path, header=0)
-    print(df_csv)
+    #print(df_csv)
     cout_i=0
+    #print(names_list)
     for index,data in df_csv.iterrows(): 
         tmp_list=[]
         for one in names_list:
-            one_data=data[one]
+            #print(one)
+            one_data=data[str(one)]
             tmp_list.extend([one_data])
         if(cout_i<10):
             learning.append(tmp_list)
@@ -143,7 +150,9 @@ def get_csv(path,names_list):
     print("--------------------------------")
     write_csv_learning(learning,fnames)
     write_csv_inspection(inspection,fnames)
-    #write_csv_measure(measure,fnames)
+    write_csv_measure(measure,fnames)
+
+
 
 def main():
     names_list=get_name_list()
